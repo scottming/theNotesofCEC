@@ -1,0 +1,2512 @@
+rank,words,phonetic,coca_speech,WB_speech
+1,the,"/ðə before consonant sounds, ði before vowel sounds, ˈðiː when said with emphasis/",a,
+2,be,"/ˈbiː/
+/ˈæm, əm/
+/ˈɑɚ, ɚ/
+/ˈız, əz/
+/ˈwəz/
+/ˈwɚ/
+/ˈbın, Brit ˈbiːn/
+/ˈbiːjıŋ/",v, verb 
+3,and,"/ˈænd, ənd, ən/",c, conj 
+4,of,"/ˈʌv, əv, Brit ˈɒv, əv, ə/",i, prep 
+5,a,"/ˈeı/
+/ə, ˈeı/
+/ən, ˈæn/",a, noun 
+6,in,,i,
+7,to,"/ˈtuː, tə/
+/ˈtuː/",t," adv 
+ prep "
+8,have,"/ˈhæv, əv; in “have to” meaning “must” usually ˈhæf/
+/ˈhæz, əz; in “has to” meaning “must” usually ˈhæs/
+/ˈhæd, əd/
+/ˈhævıŋ/",v, verb 
+9,to,"/ˈtuː, tə/
+/ˈtuː/",i," adv 
+ prep "
+10,it,"/ˈıt, ət/
+/ˈıt/",p," noun 
+ pronoun "
+11,I,,p,
+12,that,"/ˈðæt, ðət/
+/ˈðoʊz/
+/ˈðæt/",c," adj 
+ adv 
+ conj 
+ pronoun "
+13,for,"/ˈfoɚ, fɚ/",i," conj 
+ prep "
+14,you,"/ˈjuː, jə/",p, pronoun 
+15,he,"/ˈhiː, i/
+/ˈhiː/",p," noun 
+ pronoun "
+16,with,"/ˈwıθ, ˈwıð/",i, prep 
+17,on,/ˈɑːn/,i," adj 
+ adv 
+ prep "
+18,do,"/ˈduː/
+/ˈdʌz/
+/ˈdıd/
+/ˈdʌn/
+/ˈduːwıŋ/
+/ˈdoʊ/",v," noun 
+ verb "
+19,say,"/ˈseı/
+/ˈsɛz/
+/ˈsɛd/
+/ˈsejıŋ/",v," interj 
+ noun 
+ verb "
+20,this,"/ˈðıs, ðəs/
+/ˈðiːz/
+/ˈðıs/",d," adj 
+ adv 
+ pronoun "
+21,they,/ˈðeı/,p, pronoun 
+22,at,"/ˈæt, ət/",i, prep 
+23,but,"/ˈbʌt, bət/
+/ˈbʌt/",c," adv 
+ conj 
+ noun 
+ prep "
+24,we,/ˈwiː/,p, pronoun 
+25,his,"/ˈhız, ız/
+/ˈhız/",a," adj 
+ pronoun "
+26,from,"/ˈfrʌm, ˈfrɑːm, frəm/",i, prep 
+27,that,"/ˈðæt, ðət/
+/ˈðoʊz/
+/ˈðæt/",d," adj 
+ adv 
+ conj 
+ pronoun "
+28,not,/ˈnɑːt/,x, adv 
+29,n't,,x,
+30,by,"/ˈbaı, bə/
+/ˈbaı/",i," adv 
+ prep "
+31,she,/ˈʃiː/,p," noun 
+ pronoun "
+32,or,"/ˈoɚ, ɚ/
+/ɚ/",c, conj 
+33,as,"/ˈæz, əz/",c," adv 
+ conj 
+ prep "
+34,what,"/ˈwɑːt, ˈwʌt/",d," adj 
+ adv 
+ pronoun "
+35,go,"/ˈgoʊ/
+/ˈgoʊz/
+/ˈwɛnt/
+/ˈgɑːn/
+/ˈgowıŋ/",v," noun 
+ verb "
+36,their,"/ˈðeɚ, ðɚ/",a, adj 
+37,can,"/kən, ˈkæn/
+/kəd, ˈkʊd/
+/ˈkænɑt, kəˈnɑːt, Brit ˈkænət/
+/ˈkænt, Brit ˈkɑːnt/
+/ˈkæn/
+/ˈkænˌfʊl/
+/ˈkæn/",v," noun 
+ verb "
+38,who,/ˈhuː/,p, pronoun 
+39,get,"/ˈgɛt/
+/ˈgɑːt/
+/ˈgɑːtn̩/",v, verb 
+40,if,/ˈıf/,c," conj 
+ noun "
+41,would,"/ˈwʊd, wəd, əd/",v, verb 
+42,her,"/ˈhɚ, ɚ/",a," adj 
+ pronoun "
+43,all,/ˈɑːl/,d," adj 
+ adv 
+ pronoun "
+44,my,/ˈmaı/,a, adj 
+45,make,"/ˈmeık/
+/ˈmeıd/",v," noun 
+ verb "
+46,about,/əˈbaʊt/,i," adj 
+ adv 
+ prep "
+47,know,"/ˈnoʊ/
+/ˈnuː, Brit ˈnjuː/
+/ˈnoʊn/",v," noun 
+ verb "
+48,will,"/ˈwıl, wəl/
+/ˈwʊd, wəd/
+/ˈwoʊnt/
+/ˈwıl/
+/ˈwıl/
+/ˈwıl/",v," noun 
+ verb "
+49,as,"/ˈæz, əz/",i," adv 
+ conj 
+ prep "
+50,up,"/ˈʌp/
+/ˈʌpt/",r," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+51,one,/ˈwʌn/,m," adj 
+ noun 
+ pronoun "
+52,time,/ˈtaım/,n," noun 
+ verb "
+53,there,/ˈðeɚ/,e," adj 
+ adv 
+ interj 
+ noun "
+54,year,/ˈjiɚ/,n, noun 
+55,so,,r,
+56,think,"/ˈθıŋk/
+/ˈθɑːt/",v," noun 
+ verb "
+57,when,/ˈwɛn/,c," adv 
+ conj 
+ pronoun "
+58,which,/ˈwıʧ/,d," adj 
+ pronoun "
+59,them,"/ˈðɛm, ðəm/",p, pronoun 
+60,some,"/səm/
+/ˈsʌm, səm/
+/ˈsʌm/
+/ˈsʌm, ˌsʌm/",d," adj 
+ adv 
+ pronoun "
+61,me,"/ˈmiː/
+/ˌɛmˈiː/",p," noun 
+ pronoun "
+62,people,/ˈpiːpəl/,n," noun 
+ verb "
+63,take,"/ˈteık/
+/ˈtʊk/
+/ˈteıkən/",v," noun 
+ verb "
+64,out,/ˈaʊt/,r," adv 
+ noun 
+ prep 
+ verb "
+65,into,"/ˈıntu, ˈıntə/",i, prep 
+66,just,"/ˈʤʌst/
+/ˈʤʌstnəs/",r," adj 
+ adv 
+ noun "
+67,see,"/ˈsiː/
+/ˈsɑː/
+/ˈsiːn/
+/ˈsiːjıŋ/",v," noun 
+ verb "
+68,him,"/ˈhım, ım/",p, pronoun 
+69,your,"/ˈjoɚ, jɚ/",a, adj 
+70,come,"/ˈkʌm/
+/ˈkeım/",v," noun 
+ verb "
+71,could,"/ˈkʊd, kəd/",v, verb 
+72,now,/ˈnaʊ/,r," adv 
+ conj 
+ noun "
+73,than,"/ˈðæn, ðən/",c," conj 
+ prep "
+74,like,"/ˌlaık/
+/ˈlaık/",i," adj 
+ adv 
+ conj 
+ noun 
+ prep 
+ verb "
+75,other,/ˈʌðɚ/,j," adj 
+ pronoun "
+76,how,/ˈhaʊ/,r," adv 
+ conj "
+77,then,/ˈðɛn/,r," adj 
+ adv 
+ noun "
+78,its,"/ˈıts, əts/
+/ˈıts, əts/",a, adj 
+79,our,"/ˈawɚ, ɑɚ/",a, adj 
+80,two,/ˈtuː/,m," adj 
+ noun 
+ pronoun "
+81,more,/ˈmoɚ/,r," adj 
+ adv 
+ pronoun "
+82,these,,d,
+83,want,/ˈwɑːnt/,v," noun 
+ verb "
+84,way,/ˈweı/,n," adv 
+ noun "
+85,look,/ˈlʊk/,v," noun 
+ verb "
+86,first,/ˈfɚst/,m," adj 
+ adv 
+ noun 
+ pronoun "
+87,also,/ˈɑːlˌsoʊ/,r, adv 
+88,new,"/ˈnuː, Brit ˈnjuː/",j," adj 
+ adv 
+ noun "
+89,because,"/bıˈkɑːz, bıˈkʌz/",c, conj 
+90,day,/ˈdeı/,n, noun 
+91,more,/ˈmoɚ/,d," adj 
+ adv 
+ pronoun "
+92,use,"/ˈjuːz/
+/ˈjuːs/",v," noun 
+ verb "
+93,no,/ˈnoʊ/,a," adj 
+ adv 
+ noun "
+94,man,"/ˈmæn/
+/ˈmɛn/",n," interj 
+ noun 
+ verb "
+95,find,"/ˈfaınd/
+/ˈfaʊnd/",v," noun 
+ verb "
+96,here,/ˈhiɚ/,r," adv 
+ interj 
+ noun "
+97,thing,/ˈθıŋ/,n, noun 
+98,give,"/ˈgıv/
+/ˈgeıv/
+/ˈgıvən/",v," noun 
+ verb "
+99,many,/ˈmɛni/,d," adj 
+ pronoun "
+100,well,"/ˈwiːl, ˈwıl/
+/ˈwɛl/
+/ˈbɛtɚ/
+/ˈbɛst/",r," adj 
+ adv 
+ interj 
+ noun 
+ verb "
+101,only,/ˈoʊnli/,r," adj 
+ adv 
+ conj "
+102,those,,d,
+103,tell,"/ˈtɛl/
+/ˈtoʊld/",v, verb 
+104,one,/ˈwʌn/,p," adj 
+ noun 
+ pronoun "
+105,very,/ˈveri/,r," adj 
+ adv "
+106,her,"/ˈhɚ, ɚ/",p," adj 
+ pronoun "
+107,even,"/ˈiːvən/
+/ˈiːvənnəs/",r," adj 
+ adv 
+ noun 
+ verb "
+108,back,"/ˈbæk/
+/ˈbækləs/",r," adj 
+ adv 
+ noun 
+ verb "
+109,any,/ˈɛni/,d," adj 
+ adv 
+ pronoun "
+110,good,"/ˈgʊd/
+/ˈbɛtɚ/
+/ˈbɛst/
+/ˌgʊdn̩/",j," adj 
+ adv 
+ noun "
+111,woman,"/ˈwʊmən/
+/ˈwımən/",n, noun 
+112,through,/ˈθruː/,i," adj 
+ adv 
+ prep "
+113,us,,p,
+114,life,"/ˈlaıf/
+/ˈlaıvz/",n," adj 
+ noun "
+115,child,"/ˈʧajəld/
+/ˈʧıldrən/",n, noun 
+116,there,/ˈðeɚ/,r," adj 
+ adv 
+ interj 
+ noun "
+117,work,/ˈwɚk/,v," adj 
+ noun 
+ verb "
+118,down,/ˈdaʊn/,r," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+119,may,"/ˈmeı/
+/ˈmeı/",v," noun 
+ verb "
+120,after,"/ˈæftɚ, Brit ˈɑːftə/",i," adj 
+ adv 
+ conj 
+ prep "
+121,should,"/ˈʃʊd, ʃəd/",v, verb 
+122,call,/ˈkɑːl/,v," noun 
+ verb "
+123,world,/ˈwɚld/,n," adj 
+ noun "
+124,over,/ˈoʊvɚ/,i," adj 
+ adv 
+ prep "
+125,school,/ˈskuːl/,n," noun 
+ verb "
+126,still,/ˈstıl/,r," adj 
+ adv 
+ noun 
+ verb "
+127,try,/ˈtraı/,v," noun 
+ verb "
+128,in,,r,
+129,as,"/ˈæz, əz/",r," adv 
+ conj 
+ prep "
+130,last,"/ˈlæst, Brit ˈlɑːst/",m," adj 
+ adv 
+ noun 
+ pronoun 
+ verb "
+131,ask,"/ˈæsk, Brit ˈɑːsk/",v, verb 
+132,need,/ˈniːd/,v," noun 
+ verb "
+133,too,/ˈtuː/,r, adv 
+134,feel,"/ˈfiːl/
+/ˈfɛlt/",v," noun 
+ verb "
+135,three,/ˈθriː/,m," adj 
+ noun 
+ pronoun "
+136,when,/ˈwɛn/,r," adv 
+ conj 
+ pronoun "
+137,state,/ˈsteıt/,n," noun 
+ verb "
+138,never,/ˈnɛvɚ/,r, adv 
+139,become,"/bıˈkʌm/
+/-ˈkeım/",v, verb 
+140,between,/bıˈtwiːn/,i," adv 
+ prep "
+141,high,/ˈhaı/,j," adj 
+ adv 
+ noun "
+142,really,/ˈriːjəli/,r, adv 
+143,something,/ˈsʌmˌθıŋ/,p," adv 
+ pronoun "
+144,most,"/moʊst/
+/ˈmoʊst/",r," adj 
+ adv 
+ noun 
+ pronoun "
+145,another,/əˈnʌðɚ/,d," adj 
+ pronoun "
+146,much,/ˈmʌʧ/,d," adj 
+ adv 
+ pronoun "
+147,family,/ˈfæmli/,n," adj 
+ noun "
+148,own,/ˈoʊn/,d," adj 
+ pronoun 
+ verb "
+149,out,/ˈaʊt/,i," adv 
+ noun 
+ prep 
+ verb "
+150,leave,"/ˈliːv/
+/ˈlɛft/",v," noun 
+ verb "
+151,put,/ˈpʊt/,v," adj 
+ noun 
+ verb "
+152,old,/ˈoʊld/,j," adj 
+ noun "
+153,while,/ˈwajəl/,c," conj 
+ noun 
+ verb "
+154,mean,"/ˈmiːn/
+/ˈmɛnt/
+/ˈmiːnli/
+/ˈmiːnnəs/",v," adj 
+ adv 
+ noun 
+ verb "
+155,on,/ˈɑːn/,r," adj 
+ adv 
+ prep "
+156,keep,"/ˈkiːp/
+/ˈkɛpt/",v," noun 
+ verb "
+157,student,"/ˈstuːdn̩t, Brit ˈstjuːdn̩t/",n, noun 
+158,why,/ˈwaı/,r," adv 
+ conj 
+ interj 
+ noun "
+159,let,"/lət/
+/ˈlɛt/",v," noun 
+ verb "
+160,great,/ˈgreıt/,j," adj 
+ adv 
+ noun "
+161,same,/ˈseım/,d," adj 
+ adv 
+ pronoun "
+162,big,/ˈbıg/,j," adj 
+ adv 
+ noun "
+163,group,/ˈgruːp/,n," noun 
+ verb "
+164,begin,"/bıˈgın/
+/-ˈgæn/
+/-ˈgʌn/",v, verb 
+165,seem,/ˈsiːm/,v, verb 
+166,country,/ˈkʌntri/,n," adj 
+ noun "
+167,help,/ˈhɛlp/,v," noun 
+ verb "
+168,talk,/ˈtɑːk/,v," noun 
+ verb "
+169,where,/ˈweɚ/,c," adv 
+ conj "
+170,turn,/ˈtɚn/,v," noun 
+ verb "
+171,problem,/ˈprɑːbləm/,n," adj 
+ noun "
+172,every,/ˈɛvri/,a, adj 
+173,start,/ˈstɑɚt/,v," noun 
+ verb "
+174,hand,/ˈhænd/,n," noun 
+ verb "
+175,might,/ˈmaıt/,v," noun 
+ verb "
+176,American,/əˈmerəkən/,j," adj 
+ noun "
+177,show,"/ˈʃoʊ/
+/ˈʃoʊd/
+/ˈʃoʊn/",v," noun 
+ verb "
+178,part,/ˈpɑɚt/,n," adj 
+ adv 
+ noun 
+ verb "
+179,about,/əˈbaʊt/,r," adj 
+ adv 
+ prep "
+180,against,/əˈgɛnst/,i, prep 
+181,place,/ˈpleıs/,n," noun 
+ verb "
+182,over,/ˈoʊvɚ/,r," adj 
+ adv 
+ prep "
+183,such,/ˈsʌʧ/,d," adj 
+ adv 
+ pronoun "
+184,again,/əˈgɛn/,r, adv 
+185,few,/ˈfjuː/,d," adj 
+ pronoun "
+186,case,/ˈkeıs/,n," noun 
+ verb "
+187,most,"/moʊst/
+/ˈmoʊst/",d," adj 
+ adv 
+ noun 
+ pronoun "
+188,week,/ˈwiːk/,n, noun 
+189,company,/ˈkʌmpəni/,n, noun 
+190,where,/ˈweɚ/,r," adv 
+ conj "
+191,system,/ˈsıstəm/,n, noun 
+192,each,/ˈiːʧ/,d," adj 
+ adv 
+ pronoun "
+193,right,/ˈraıt/,r," adj 
+ adv 
+ noun 
+ verb "
+194,program,"/ˈproʊˌgræm/
+/ˈproʊˌgræməbəl/",n," adj 
+ noun 
+ verb "
+195,hear,"/ˈhiɚ/
+/ˈhɚd/",v, verb 
+196,so,,c,
+197,question,/ˈkwɛsʧən/,n," noun 
+ verb "
+198,during,"/ˈdurıŋ, Brit ˈdjʊrıŋ/",i, prep 
+199,work,/ˈwɚk/,n," adj 
+ noun 
+ verb "
+200,play,/ˈpleı/,v," noun 
+ verb "
+201,government,"/ˈgʌvɚmənt/
+/ˌgʌvɚnˈmɛntl̩/
+/ˌgʌvɚnˈmɛntl̩i/",n," adj 
+ adv 
+ noun "
+202,run,"/ˈrʌn/
+/ˈræn/",v," noun 
+ verb "
+203,small,"/ˈsmɑːl/
+/ˈsmɑːlıʃ/
+/ˈsmɑːlnəs/",j," adj 
+ noun "
+204,number,/ˈnʌmbɚ/,n," noun 
+ verb "
+205,off,/ˈɑːf/,r," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+206,always,/ˈɑːlˌweız/,r, adv 
+207,move,/ˈmuːv/,v," noun 
+ verb "
+208,like,"/ˌlaık/
+/ˈlaık/",v," adj 
+ adv 
+ conj 
+ noun 
+ prep 
+ verb "
+209,night,/ˈnaıt/,n," adj 
+ noun "
+210,live,"/ˈlıv/
+/ˈlaıv/
+/ˈlaıv/",v," adj 
+ adv 
+ verb "
+211,Mr,/ˈmıstɚ/,n, noun 
+212,point,/ˈpoınt/,n," noun 
+ verb "
+213,believe,"/bəˈliːv/
+/bəˈliːvəbəl/
+/bəˈliːvəbli/",v," adj 
+ adv 
+ noun 
+ verb "
+214,hold,"/ˈhoʊld/
+/ˈhɛld/",v," noun 
+ verb "
+215,today,/təˈdeı/,r," adv 
+ noun "
+216,bring,"/ˈbrıŋ/
+/ˈbrɑːt/",v," noun 
+ verb "
+217,happen,/ˈhæpən/,v, verb 
+218,next,/ˈnɛkst/,m," adj 
+ adv 
+ pronoun "
+219,without,"/wıˈðaʊt, wıˈθaʊt/",i," adv 
+ prep "
+220,before,/bıˈfoɚ/,i," adv 
+ conj 
+ prep "
+221,large,/ˈlɑɚʤ/,j," adj 
+ noun "
+222,all,/ˈɑːl/,r," adj 
+ adv 
+ pronoun "
+223,million,"/ˈmıljən/
+/ˈmıljənθ/",m," adj 
+ noun "
+224,must,/ˈmʌst/,v," noun 
+ verb "
+225,home,"/ˈhoʊm/
+/ˈhoʊmˌlaık/",n," adj 
+ adv 
+ noun 
+ verb "
+226,under,/ˈʌndɚ/,i," adv 
+ prep "
+227,water,/ˈwɑːtɚ/,n," noun 
+ verb "
+228,room,/ˈruːm/,n," noun 
+ verb "
+229,write,"/ˈraıt/
+/ˈroʊt/
+/ˈrıtn̩/",v, verb 
+230,mother,"/ˈmʌðɚ/
+/ˈmʌðɚˌhʊd/
+/ˈmʌðɚləs/
+/ˈmʌðərıŋ/",n," adj 
+ noun 
+ verb "
+231,area,/ˈerijə/,n, noun 
+232,national,"/ˈnæʃənl̩/
+/ˈnæʃənəli/",j," adj 
+ adv 
+ noun "
+233,money,"/ˈmʌni/
+/ˈmʌniz/",n, noun 
+234,story,"/ˈstori/
+/ˈstori/",n, noun 
+235,young,"/ˈjʌŋ/
+/ˈjʌŋgɚ/
+/-gəst/",j," adj 
+ noun "
+236,fact,/ˈfækt/,n, noun 
+237,month,/ˈmʌnθ/,n, noun 
+238,different,/ˈdıfrənt/,j," adj 
+ adv "
+239,lot,/ˈlɑːt/,n, noun 
+240,right,/ˈraıt/,n," adj 
+ adv 
+ noun 
+ verb "
+241,study,/ˈstʌdi/,n," noun 
+ verb "
+242,book,"/ˈbʊk/
+/ˈbʊkəbəɬ/",n," adj 
+ noun 
+ verb "
+243,eye,/ˈaı/,n," noun 
+ verb "
+244,job,"/ˈʤɑːb/
+/ˈjɑːbləs/",n," adj 
+ noun "
+245,word,,n,
+246,though,/ˈðoʊ/,c," adv 
+ conj "
+247,business,/ˈbıznəs/,n, noun 
+248,issue,/ˈıˌʃuː/,n," noun 
+ verb "
+249,side,/ˈsaıd/,n," adj 
+ noun 
+ verb "
+250,kind,/ˈkaınd/,n," adj 
+ noun "
+251,four,/ˈfoɚ/,m," adj 
+ noun 
+ pronoun "
+252,head,/ˈhɛd/,n," noun 
+ verb "
+253,far,"/ˈfɑɚ/
+/ˈfɑɚðɚ/
+/ˈfɚðɚ/
+/ˈfɑɚðəst/
+/ˈfɚðəst/",r," adj 
+ adv "
+254,black,/ˈblæk/,j," adj 
+ adv 
+ noun 
+ verb "
+255,long,"/ˈlɑːŋ/
+/ˈlɑːŋgɚ/
+/ˈlɑːŋgəst/",j," adj 
+ adv 
+ noun 
+ verb "
+256,both,/ˈboʊθ/,d," adj 
+ conj 
+ pronoun "
+257,little,"/ˈlıtl̩/
+/ˈlɛs/
+/ˈlɛsɚ/
+/ˈlıtl̩ɚ/
+/ˈliːst/
+/ˈlıtl̩əst/
+/ˈlıtl̩nəs/",j," adj 
+ adv 
+ noun 
+ pronoun "
+258,house,"/ˈhaʊs/
+/ˈhaʊzəz/
+/ˈhaʊsˌfʊl/
+/ˈhaʊz/",n," noun 
+ verb "
+259,yes,/ˈjɛs/,u," adv 
+ noun "
+260,after,"/ˈæftɚ, Brit ˈɑːftə/",c," adj 
+ adv 
+ conj 
+ prep "
+261,since,/ˈsıns/,c," adv 
+ conj 
+ prep "
+262,long,"/ˈlɑːŋ/
+/ˈlɑːŋgɚ/
+/ˈlɑːŋgəst/",r," adj 
+ adv 
+ noun 
+ verb "
+263,provide,/prəˈvaıd/,v, verb 
+264,service,/ˈsɚvəs/,n," noun 
+ verb "
+265,around,/əˈraʊnd/,i," adj 
+ adv 
+ prep "
+266,friend,/ˈfrɛnd/,n, noun 
+267,important,/ımˈpoɚtn̩t/,j, adj 
+268,father,"/ˈfɑːðɚ/
+/ˈfɑːðɚˌhʊd/
+/ˈfɑːðɚləs/",n," adj 
+ noun 
+ verb "
+269,sit,"/ˈsit/
+/ˈsæt/",v, verb 
+270,away,/əˈweı/,r," adj 
+ adv "
+271,until,/ənˈtıl/,c," conj 
+ prep "
+272,power,/ˈpawɚ/,n," adj 
+ noun 
+ verb "
+273,hour,/ˈawɚ/,n, noun 
+274,game,/ˈgeım/,n," adj 
+ adv 
+ noun "
+275,often,/ˈɑːfən/,r, adv 
+276,yet,/ˈjɛt/,r," adv 
+ conj "
+277,line,/ˈlaın/,n," noun 
+ verb "
+278,political,"/pəˈlıtıkəl/
+/pəˈlıtıkli/",j," adj 
+ adv "
+279,end,/ˈɛnd/,n," adj 
+ noun 
+ verb "
+280,among,"/əˈmʌŋ/
+/əˈmʌŋst/",i, prep 
+281,ever,/ˈɛvɚ/,r, adv 
+282,stand,"/ˈstænd/
+/ˈstʊd/",v," noun 
+ verb "
+283,bad,"/ˈbæd/
+/ˈwɚs/
+/ˈwɚst/",j," adj 
+ adv 
+ noun "
+284,lose,"/ˈluːz/
+/ˈlɑːst/
+/ˈluːzəbəl/",v," adj 
+ verb "
+285,however,/haʊˈɛvɚ/,r," adv 
+ conj "
+286,member,/ˈmɛmbɚ/,n, noun 
+287,pay,"/ˈpeı/
+/ˈpeıd/",v," noun 
+ verb "
+288,law,/ˈlɑː/,n, noun 
+289,meet,"/ˈmiːt/
+/ˈmɛt/",v," noun 
+ verb "
+290,car,/ˈkɑɚ/,n, noun 
+291,city,/ˈsıti/,n, noun 
+292,almost,/ˈɑːlˌmoʊst/,r, adv 
+293,include,"/ınˈkluːd/
+/ınˈkluːʒən/",v," noun 
+ verb "
+294,continue,/kənˈtınju/,v," adj 
+ verb "
+295,set,/ˈsɛt/,v," adj 
+ noun 
+ verb "
+296,later,/ˈleıtɚ/,r," adj 
+ adv "
+297,community,/kəˈmjuːnəti/,n, noun 
+298,much,/ˈmʌʧ/,r," adj 
+ adv 
+ pronoun "
+299,name,/ˈneım/,n," adj 
+ noun 
+ verb "
+300,five,/ˈfaıv/,m," adj 
+ noun 
+ pronoun "
+301,once,/ˈwʌns/,r," adv 
+ conj 
+ noun "
+302,white,"/ˈwaıt/
+/ˈwaıtnəs/
+/ˈwaıtıʃ/",j," adj 
+ noun "
+303,least,/ˈliːst/,r," adj 
+ adv 
+ noun "
+304,president,"/ˈprɛzədənt/
+/ˌprɛzəˈdɛnʃəl/",n," adj 
+ noun "
+305,learn,"/ˈlɚn/
+/ˈlɚnt/
+/ˈlɚnəbəl/",v," adj 
+ verb "
+306,real,/ˈriːjəl/,j," adj 
+ adv 
+ noun "
+307,change,/ˈʧeınʤ/,v," noun 
+ verb "
+308,team,/ˈtiːm/,n," noun 
+ verb "
+309,minute,"/ˈmınət/
+/maıˈnuːt, Brit maıˈnjuːt/",n," adj 
+ adv 
+ noun "
+310,best,/ˈbɛst/,j," adj 
+ adv 
+ noun 
+ verb "
+311,several,"/ˈsɛvərəl/
+/ˈsɛvərəli/",d," adj 
+ adv 
+ pronoun "
+312,idea,/aıˈdiːjə/,n, noun 
+313,kid,/ˈkıd/,n," adj 
+ noun 
+ verb "
+314,body,/ˈbɑːdi/,n, noun 
+315,information,"/ˌınfɚˈmeıʃən/
+/ˌınfɚˈmeıʃənl̩/",n," adj 
+ noun "
+316,nothing,/ˈnʌθıŋ/,p," adv 
+ noun 
+ pronoun "
+317,ago,/əˈgoʊ/,r, adv 
+318,right,/ˈraıt/,j," adj 
+ adv 
+ noun 
+ verb "
+319,lead,"/ˈliːd/
+/ˈlɛd/
+/ˈlɛd/",v," noun 
+ verb "
+320,social,"/ˈsoʊʃəl/
+/ˈsoʊʃəli/",j," adj 
+ adv 
+ noun "
+321,understand,"/ˌʌndɚˈstænd/
+/-ˈstʊd/",v, verb 
+322,whether,/ˈwɛðɚ/,c, conj 
+323,back,"/ˈbæk/
+/ˈbækləs/",n," adj 
+ adv 
+ noun 
+ verb "
+324,watch,/ˈwɑːʧ/,v," noun 
+ verb "
+325,together,/təˈgɛðɚ/,r," adj 
+ adv "
+326,follow,/ˈfɑːloʊ/,v, verb 
+327,around,/əˈraʊnd/,r," adj 
+ adv 
+ prep "
+328,parent,"/ˈperənt/
+/pəˈrɛntl̩/",n," adj 
+ noun "
+329,only,/ˈoʊnli/,j," adj 
+ adv 
+ conj "
+330,stop,/ˈstɑːp/,v," noun 
+ verb "
+331,face,/ˈfeıs/,n," noun 
+ verb "
+332,anything,/ˈɛniˌθıŋ/,p, pronoun 
+333,create,/kriˈeıt/,v, verb 
+334,public,/ˈpʌblık/,j," adj 
+ noun "
+335,already,/ɑːlˈrɛdi/,r, adv 
+336,speak,"/ˈspiːk/
+/ˈspoʊk/
+/ˈspoʊkən/
+/ˌspiːk/",v, verb 
+337,others,(= other books),n,
+338,read,"/ˈriːd/
+/ˈrɛd/
+/ˈriːdıŋ/
+/ˈriːd/
+/ˈrɛd/",v," adj 
+ noun 
+ verb "
+339,level,/ˈlɛvəl/,n," adj 
+ noun 
+ verb "
+340,allow,"/əˈlaʊ/
+/əˈlawəbəl/",v," adj 
+ verb "
+341,add,/ˈæd/,v," adj 
+ verb "
+342,office,/ˈɑːfəs/,n, noun 
+343,spend,"/ˈspɛnd/
+/ˈspɛnt/",v, verb 
+344,door,/ˈdoɚ/,n," adj 
+ noun "
+345,health,/ˈhɛlθ/,n," adj 
+ noun "
+346,person,/ˈpɚsn̩/,n, noun 
+347,art,/ˈɑɚt/,n, noun 
+348,sure,"/ˈʃɚ, Brit ˈʃɔː/",j," adj 
+ adv "
+349,such,/ˈsʌʧ/,i," adj 
+ adv 
+ pronoun "
+350,war,/ˈwoɚ/,n, noun 
+351,history,/ˈhıstəri/,n, noun 
+352,party,/ˈpɑɚti/,n," noun 
+ verb "
+353,within,"/wıˈðın, wıˈθın/",i," adv 
+ prep "
+354,grow,"/ˈgroʊ/
+/ˈgruː/
+/ˈgroʊn/
+/ˈgrowɚ/",v," adj 
+ noun 
+ verb "
+355,result,/rıˈzʌlt/,n," adj 
+ noun 
+ verb "
+356,open,"/ˈoʊpən/
+/ˈoʊpənəbəl/",v," adj 
+ noun 
+ verb "
+357,change,/ˈʧeınʤ/,n," noun 
+ verb "
+358,morning,/ˈmoɚnıŋ/,n, noun 
+359,walk,/ˈwɑːk/,v," noun 
+ verb "
+360,reason,/ˈriːzn̩/,n," noun 
+ verb "
+361,low,/ˈloʊ/,j," adj 
+ adv 
+ noun 
+ verb "
+362,win,"/ˈwın/
+/ˈwʌn/",v," noun 
+ verb "
+363,research,"/ˈriːˌsɚʧ/
+/rıˈsɚʧ/",n," noun 
+ verb "
+364,girl,"/ˈgɚl/
+/ˈgɚlˌhʊd/
+/ˈgɚlıʃ/",n," adj 
+ adv 
+ noun "
+365,guy,/ˈgaı/,n, noun 
+366,early,/ˈɚli/,j," adj 
+ adv "
+367,food,/ˈfuːd/,n, noun 
+368,before,/bıˈfoɚ/,c," adv 
+ conj 
+ prep "
+369,moment,/ˈmoʊmənt/,n, noun 
+370,himself,/hımˈsɛlf/,p, pronoun 
+371,air,"/ˈeɚ/
+/ˈeɚləs/",n," adj 
+ noun 
+ verb "
+372,teacher,/ˈtiːʧɚ/,n, noun 
+373,force,/ˈfoɚs/,n," noun 
+ verb "
+374,offer,/ˈɑːfɚ/,v," noun 
+ verb "
+375,enough,/ıˈnʌf/,r," adj 
+ adv 
+ pronoun "
+376,both,/ˈboʊθ/,r," adj 
+ conj 
+ pronoun "
+377,education,/ˌɛʤəˈkeıʃən/,n, noun 
+378,across,/əˈkʰrɑːs/,i," adv 
+ prep "
+379,although,/ɑlˈðoʊ/,c, conj 
+380,remember,/rıˈmɛmbɚ/,v, verb 
+381,foot,"/ˈfʊt/
+/ˈfiːt/",n," noun 
+ verb "
+382,second,/ˈsɛkənd/,m," adj 
+ adv 
+ noun 
+ verb "
+383,boy,"/ˈboı/
+/ˈboıˌhʊd/
+/ˈboııʃ/",n," adj 
+ adv 
+ interj 
+ noun "
+384,maybe,/ˈmeıbi/,r," adv 
+ noun "
+385,toward,"/ˈtowɚd, ˈtoɚd/
+/ˈtowɚdz, ˈtoɚdz/",i, prep 
+386,able,/ˈeıbəl/,j, adj 
+387,age,"/ˈeıʤ/
+/ıʤ/",n," noun 
+ verb "
+388,off,/ˈɑːf/,i," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+389,policy,/ˈpɑːləsi/,n, noun 
+390,everything,/ˈɛvriˌθıŋ/,p, pronoun 
+391,love,"/ˈlʌv/
+/ˈlʌvləs/",v," adj 
+ noun 
+ verb "
+392,process,"/ˈprɑːˌsɛs, Brit ˈprəʊˌsɛs/",n," noun 
+ verb "
+393,music,/ˈmjuːzık/,n, noun 
+394,including,/ınˈkluːdıŋ/,i, prep 
+395,consider,/kənˈsıdɚ/,v, verb 
+396,appear,/əˈpiɚ/,v, verb 
+397,actually,/ˈækʧəwəli/,r, adv 
+398,buy,"/ˈbaı/
+/ˈbɑːt/",v," noun 
+ verb "
+399,probably,/ˈprɑːbəbli/,r, adv 
+400,human,"/ˈhjuːmən/
+/ˈhjuːmənˌlaık/",j," adj 
+ noun "
+401,wait,/ˈweıt/,v," noun 
+ verb "
+402,serve,/ˈsɚv/,v," noun 
+ verb "
+403,market,/ˈmɑɚkət/,n," noun 
+ verb "
+404,die,"/ˈdaı/
+/ˈdajıŋ/
+/ˈdaı/
+/ˈdaıs/
+/ˈdaız/",v," noun 
+ verb "
+405,send,"/ˈsɛnd/
+/ˈsɛnt/",v, verb 
+406,expect,"/ıkˈspɛkt/
+/ıkˈspɛktəbəl/",v," adj 
+ verb "
+407,home,"/ˈhoʊm/
+/ˈhoʊmˌlaık/",r," adj 
+ adv 
+ noun 
+ verb "
+408,sense,/ˈsɛns/,n," noun 
+ verb "
+409,build,"/ˈbıld/
+/ˈbılt/",v," noun 
+ verb "
+410,stay,/ˈsteı/,v," noun 
+ verb "
+411,fall,"/ˈfɑːl/
+/ˈfɛl/
+/ˈfɑːlən/",v," noun 
+ verb "
+412,oh,"/ˈoʊ/
+/ˈoʊ/",u," interj 
+ noun "
+413,nation,/ˈneıʃən/,n, noun 
+414,plan,/ˈplæn/,n," noun 
+ verb "
+415,cut,/ˈkʌt/,v," noun 
+ verb "
+416,college,/ˈkɑːlıʤ/,n, noun 
+417,interest,/ˈıntrəst/,n," noun 
+ verb "
+418,death,"/ˈdɛθ/
+/ˈdɛθˌlaık/",n," adj 
+ noun "
+419,course,/ˈkoɚs/,r," noun 
+ verb "
+420,someone,/ˈsʌmˌwʌn/,p, pronoun 
+421,experience,/ıkˈspirijəns/,n," noun 
+ verb "
+422,behind,/bıˈhaınd/,i," adv 
+ noun 
+ prep "
+423,reach,"/ˈriːʧ/
+/ˈriːʧəbəl/",v," adj 
+ noun 
+ verb "
+424,local,/ˈloʊkəl/,j," adj 
+ adv 
+ noun "
+425,kill,/ˈkıl/,v," noun 
+ verb "
+426,six,/ˈsıks/,m," adj 
+ noun 
+ pronoun "
+427,remain,/rıˈmeın/,v," adj 
+ verb "
+428,effect,/ıˈfɛkt/,n," noun 
+ verb "
+429,use,"/ˈjuːz/
+/ˈjuːs/",n," noun 
+ verb "
+430,yeah,/ˈjɛə/,u, adv 
+431,suggest,/səˈʤɛst/,v, verb 
+432,class,"/ˈklæs, Brit ˈklɑːs/",n," noun 
+ verb "
+433,control,"/kənˈtroʊl/
+/kənˈtroʊləbəl/",n," adj 
+ noun 
+ verb "
+434,raise,/ˈreız/,v," noun 
+ verb "
+435,care,/ˈkeɚ/,n," noun 
+ verb "
+436,perhaps,/pɚˈhæps/,r, adv 
+437,little,"/ˈlıtl̩/
+/ˈlɛs/
+/ˈlɛsɚ/
+/ˈlıtl̩ɚ/
+/ˈliːst/
+/ˈlıtl̩əst/
+/ˈlıtl̩nəs/",r," adj 
+ adv 
+ noun 
+ pronoun "
+438,late,/ˈleıt/,j," adj 
+ adv 
+ noun "
+439,hard,/ˈhɑɚd/,j," adj 
+ adv "
+440,field,/ˈfiːld/,n," noun 
+ verb "
+441,else,/ˈɛls/,r," adj 
+ adv "
+442,pass,"/ˈpæs, Brit ˈpɑːs/",v," noun 
+ verb "
+443,former,/ˈfoɚmɚ/,d, adj 
+444,sell,"/ˈsɛl/
+/ˈsoʊld/",v," noun 
+ verb "
+445,major,/ˈmeıʤɚ/,j," adj 
+ noun 
+ verb "
+446,sometimes,/ˈsʌmˌtaımz/,r, adv 
+447,require,/rıˈkwajɚ/,v, verb 
+448,along,/əˈlɑːŋ/,i," adv 
+ prep "
+449,development,/dıˈvɛləpmənt/,n, noun 
+450,themselves,/ðɛmˈsɛlvz/,p, pronoun 
+451,report,/rıˈpoɚt/,v," adj 
+ noun 
+ verb "
+452,role,/ˈroʊl/,n, noun 
+453,better,/ˈbɛtɚ/,j," adj 
+ adv 
+ noun 
+ verb "
+454,economic,/ˌɛkəˈnɑːmık/,j, adj 
+455,effort,/ˈɛfɚt/,n, noun 
+456,up,"/ˈʌp/
+/ˈʌpt/",i," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+457,decide,/dıˈsaıd/,v, verb 
+458,rate,/ˈreıt/,n," noun 
+ verb "
+459,strong,"/ˈstrɑːŋ/
+/ˈstrɑːŋgɚ/
+/ˈstrɑːŋgəst/
+/ˈstrɑːŋli/",j," adj 
+ adv "
+460,possible,/ˈpɑːsəbəl/,j," adj 
+ noun "
+461,heart,/ˈhɑɚt/,n, noun 
+462,drug,/ˈdrʌg/,n," noun 
+ verb "
+463,show,"/ˈʃoʊ/
+/ˈʃoʊd/
+/ˈʃoʊn/",n," noun 
+ verb "
+464,leader,/ˈliːdɚ/,n," adj 
+ noun "
+465,light,"/ˈlaıt/
+/ˈlıt/
+/ˈlaıtnəs/",n," adj 
+ adv 
+ noun 
+ verb "
+466,voice,/ˈvoıs/,n," noun 
+ verb "
+467,wife,"/ˈwaıf/
+/ˈwaıvz/",n, noun 
+468,whole,/ˈhoʊl/,j," adj 
+ adv 
+ noun "
+469,police,"/pəˈliːs/
+/pəˈliːsıŋ/",n," noun 
+ verb "
+470,mind,/ˈmaınd/,n," noun 
+ verb "
+471,finally,/ˈfaınl̩i/,r, adv 
+472,pull,/ˈpʊl/,v," noun 
+ verb "
+473,return,/rıˈtɚn/,v," adj 
+ noun 
+ verb "
+474,free,/ˈfriː/,j," adj 
+ adv 
+ verb "
+475,military,"/ˈmıləˌteri/
+/ˌmıləˈterəli/",j," adj 
+ adv 
+ noun "
+476,price,/ˈpraıs/,n," noun 
+ verb "
+477,report,/rıˈpoɚt/,n," adj 
+ noun 
+ verb "
+478,less,"/ləs/
+/ˈlɛs/",r," adj 
+ adv 
+ prep 
+ pronoun "
+479,according,,i,
+480,decision,/dıˈsıʒən/,n, noun 
+481,explain,"/ıkˈspleın/
+/ıkˈspleınəbəl/",v," adj 
+ verb "
+482,son,/ˈsʌn/,n, noun 
+483,hope,/ˈhoʊp/,v," noun 
+ verb "
+484,even,"/ˈiːvən/
+/ˈiːvənnəs/",c," adj 
+ adv 
+ noun 
+ verb "
+485,develop,"/dıˈvɛləp/
+/dıˈvɛləpəbəl/",v," adj 
+ verb "
+486,view,"/ˈvjuː/
+/ˈvjuːwıŋ/",n," noun 
+ verb "
+487,relationship,/rıˈleıʃənˌʃıp/,n, noun 
+488,carry,/ˈkeri/,v," noun 
+ verb "
+489,town,/ˈtaʊn/,n, noun 
+490,road,/ˈroʊd/,n, noun 
+491,drive,"/ˈdraıv/
+/ˈdroʊv/
+/ˈdrıvən/",v," noun 
+ verb "
+492,arm,/ˈɑɚm/,n," noun 
+ verb "
+493,TRUE,,j,
+494,federal,/ˈfɛdərəl/,j," adj 
+ adv 
+ noun "
+495,break,"/ˈbreık/
+/ˈbroʊk/
+/ˈbroʊkən/",v," noun 
+ verb "
+496,better,/ˈbɛtɚ/,r," adj 
+ adv 
+ noun 
+ verb "
+497,difference,/ˈdıfrəns/,n, noun 
+498,thank,/ˈθæŋk/,v, verb 
+499,receive,/rıˈsiːv/,v, verb 
+500,value,/ˈvælju/,n," adj 
+ noun 
+ verb "
+501,international,/ˌıntɚˈnæʃənl̩/,j," adj 
+ adv "
+502,building,/ˈbıldıŋ/,n, noun 
+503,action,/ˈækʃən/,n, noun 
+504,full,/ˈfʊl/,j," adj 
+ adv 
+ noun "
+505,model,"/ˈmɑːdl̩/
+/ˈmɑːdl̩ɚ/",n," adj 
+ noun 
+ verb "
+506,join,/ˈʤoın/,v, verb 
+507,season,/ˈsiːzn̩/,n," noun 
+ verb "
+508,society,/səˈsajəti/,n, noun 
+509,because,"/bıˈkɑːz, bıˈkʌz/",i, conj 
+510,tax,/ˈtæks/,n," noun 
+ verb "
+511,director,/dəˈrɛktɚ/,n, noun 
+512,early,/ˈɚli/,r," adj 
+ adv "
+513,position,/pəˈzıʃən/,n," noun 
+ verb "
+514,player,/ˈplejɚ/,n, noun 
+515,agree,/əˈgriː/,v, verb 
+516,especially,/ıˈspɛʃəli/,r, adv 
+517,record,"/ˈrɛkɚd/
+/rıˈkoɚd/
+/ˈrɛkɚd/",n," adj 
+ noun 
+ verb "
+518,pick,/ˈpık/,v," noun 
+ verb "
+519,wear,"/ˈweɚ/
+/ˈwoɚ/
+/ˈwoɚn/",v," noun 
+ verb "
+520,paper,/ˈpeıpɚ/,n," adj 
+ noun 
+ verb "
+521,special,/ˈspɛʃəl/,j," adj 
+ noun "
+522,space,/ˈspeıs/,n," noun 
+ verb "
+523,ground,/ˈgraʊnd/,n," noun 
+ verb "
+524,form,/ˈfoɚm/,n," noun 
+ verb "
+525,support,/səˈpoɚt/,v," noun 
+ verb "
+526,event,/ıˈvɛnt/,n, noun 
+527,official,/əˈfıʃəl/,n," adj 
+ adv 
+ noun "
+528,whose,/ˈhuːz/,d," adj 
+ pronoun "
+529,matter,/ˈmætɚ/,n," noun 
+ verb "
+530,everyone,/ˈɛvriˌwʌn/,p, pronoun 
+531,center,/ˈsɛntɚ/,n," noun 
+ verb "
+532,couple,"/ˈkʌpəl/
+/ˈkʌpəldəm/
+/ˈkʌplɚ/",n," noun 
+ verb "
+533,site,/ˈsaıt/,n," noun 
+ verb "
+534,end,/ˈɛnd/,v," adj 
+ noun 
+ verb "
+535,project,"/ˈprɑːˌʤɛkt/
+/prəˈʤɛkt/",n," noun 
+ verb "
+536,hit,"/ˈhıt/
+/ˈhıtləs/",v," adj 
+ noun 
+ verb "
+537,base,/ˈbeıs/,v," adj 
+ adv 
+ noun 
+ verb "
+538,activity,/ækˈtıvəti/,n, noun 
+539,star,"/ˈstɑɚ/
+/ˈstɑɚləs/
+/ˈstɑɚˌlaık/",n," adj 
+ noun 
+ verb "
+540,table,/ˈteıbəl/,n," noun 
+ verb "
+541,need,/ˈniːd/,n," noun 
+ verb "
+542,court,/ˈkoɚt/,n," noun 
+ verb "
+543,produce,"/prəˈduːs, Brit prəˈdjuːs/
+/ˈproʊˌduːs, Brit ˈprɒˌdjuːs/",v," noun 
+ verb "
+544,eat,"/ˈiːt/
+/ˈeıt, Brit ˈɛt, ˈeıt/
+/ˈiːtn̩/
+/ˈiːɾəbəl/",v," adj 
+ noun 
+ verb "
+545,American,/əˈmerəkən/,n," adj 
+ noun "
+546,teach,"/ˈtiːʧ/
+/ˈtɑːt/",v, verb 
+547,oil,/ˈojəl/,n," noun 
+ verb "
+548,half,"/ˈhæf, Brit ˈhɑːf/
+/ˈhævz, Brit ˈhɑvz/",d," adj 
+ adv 
+ noun 
+ pronoun "
+549,situation,/ˌsıʧəˈweıʃən/,n, noun 
+550,easy,/ˈiːzi/,j," adj 
+ adv 
+ noun "
+551,cost,/ˈkɑːst/,n," noun 
+ verb "
+552,industry,/ˈındəstri/,n, noun 
+553,figure,"/ˈfıgjɚ, Brit ˈfıgə/",n," noun 
+ verb "
+554,face,/ˈfeıs/,v," noun 
+ verb "
+555,street,/ˈstriːt/,n," adj 
+ noun "
+556,image,/ˈımıʤ/,n, noun 
+557,itself,/ıtˈsɛlf/,p, pronoun 
+558,phone,"/ˈfoʊn/
+/ˌfoʊn/",n," noun 
+ verb "
+559,either,"/ˈiːðɚ, Brit ˈaıðə/",r," adj 
+ adv 
+ conj 
+ pronoun "
+560,data,"/ˈdeıtə, ˈdætə/",n, noun 
+561,cover,/ˈkʌvɚ/,v," noun 
+ verb "
+562,quite,/ˈkwaıt/,r, adv 
+563,picture,/ˈpıkʧɚ/,n," noun 
+ verb "
+564,clear,/ˈkliɚ/,j," adj 
+ adv 
+ noun 
+ verb "
+565,practice,/ˈpræktəs/,n," noun 
+ verb "
+566,piece,/ˈpiːs/,n," noun 
+ verb "
+567,land,/ˈlænd/,n," noun 
+ verb "
+568,recent,/ˈriːsn̩t/,j, adj 
+569,describe,"/dıˈskraıb/
+/dıˈskraıbəbəl/",v," adj 
+ verb "
+570,product,/ˈprɑːˌdʌkt/,n, noun 
+571,doctor,/ˈdɑːktɚ/,n," noun 
+ verb "
+572,wall,/ˈwɑːl/,n," noun 
+ verb "
+573,patient,/ˈpeıʃənt/,n," adj 
+ adv 
+ noun "
+574,worker,/ˈwɚkɚ/,n, noun 
+575,news,"/ˈnuːz, Brit ˈnjuːz/",n, noun 
+576,test,"/ˈtɛst/
+/ˈtɛstəbəl/",n," adj 
+ noun 
+ verb "
+577,movie,/ˈmuːvi/,n, noun 
+578,certain,/ˈsɚtn̩/,j," adj 
+ pronoun "
+579,north,/ˈnoɚθ/,n," adj 
+ adv 
+ noun "
+580,love,"/ˈlʌv/
+/ˈlʌvləs/",n," adj 
+ noun 
+ verb "
+581,personal,/ˈpɚsənəl/,j, adj 
+582,open,"/ˈoʊpən/
+/ˈoʊpənəbəl/",j," adj 
+ noun 
+ verb "
+583,support,/səˈpoɚt/,n," noun 
+ verb "
+584,simply,/ˈsımpli/,r, adv 
+585,third,/ˈθɚd/,m," adj 
+ adv 
+ noun "
+586,technology,"/tɛkˈnɑːləʤi/
+/ˌtɛknəˈlɑːʤıkəl/
+/ˌtɛknəˈlɑːʤık/
+/ˌtɛknəˈlɑːʤıkli/",n," adj 
+ adv 
+ noun "
+587,catch,"/ˈkæʧ, ˈkɛʧ/
+/ˈkɑːt/
+/ˈkæʧəbəl, ˈkɛʧəbəl/",v," adj 
+ noun 
+ verb "
+588,step,"/ˈstɛp/
+/ˈstɛpˌlaık/
+/ˈstɛpt/
+/ˈstɛpɚ/",n," adj 
+ noun 
+ verb "
+589,baby,"/ˈbeıbi/
+/ˈbeıbiˌhʊd/
+/ˈbeıbijıʃ/",n," adj 
+ noun 
+ verb "
+590,computer,/kəmˈpjuːtɚ/,n, noun 
+591,type,/ˈtaıp/,n," noun 
+ verb "
+592,attention,/əˈtɛnʃən/,n, noun 
+593,draw,"/ˈdrɑː/
+/ˈdruː/
+/ˈdrɑːn/",v," noun 
+ verb "
+594,film,/ˈfılm/,n," noun 
+ verb "
+595,Republican,"/rıˈpʌblıkən/
+/rıˈpʌblıkəˌnızəm/",n," adj 
+ noun "
+596,tree,"/ˈtriː/
+/ˈtriːləs/
+/ˈtriːˌlaık/",n," adj 
+ noun "
+597,source,/ˈsoɚs/,n, noun 
+598,red,"/ˈrɛd/
+/ˈrɛdnəs/",j," adj 
+ noun "
+599,nearly,/ˈniɚli/,r, adv 
+600,organization,"/ˌoɚgənəˈzeıʃən, Brit ˌɔːgəˌnaıˈzeıʃən/
+/ˌoɚgənəˈzeıʃənl̩, Brit ˌɔːgəˌnaıˈzeıʃənl̩/",n," adj 
+ noun "
+601,choose,"/ˈʧuːz/
+/ˈʧoʊz/
+/ˈʧoʊzn̩/",v," noun 
+ verb "
+602,cause,"/ˈkɑːz/
+/ˈkɑːz, kəz/",v," conj 
+ noun 
+ verb "
+603,hair,"/ˈheɚ/
+/ˈheɚd/
+/ˈheɚləs/",n," adj 
+ noun "
+604,look,/ˈlʊk/,n," noun 
+ verb "
+605,point,/ˈpoınt/,v," noun 
+ verb "
+606,century,/ˈsɛnʧəri/,n, noun 
+607,evidence,/ˈɛvədəns/,n," noun 
+ verb "
+608,window,/ˈwındoʊ/,n, noun 
+609,difficult,/ˈdıfıkəlt/,j, adj 
+610,listen,"/ˈlısn̩/
+/ˈlısn̩ɚ/",v," noun 
+ verb "
+611,soon,/ˈsuːn/,r, adv 
+612,culture,/ˈkʌlʧɚ/,n," noun 
+ verb "
+613,billion,"/ˈbıljən/
+/ˈbıljənθ/",m," adj 
+ noun "
+614,chance,"/ˈʧæns, Brit ˈʧɑːns/",n," adj 
+ noun 
+ verb "
+615,brother,"/ˈbrʌðɚ/
+/ˈbrɛðrən/",n, noun 
+616,energy,/ˈɛnɚʤi/,n, noun 
+617,period,"/ˈpirijəd/
+/ˈpirijəd/",n," adj 
+ noun "
+618,course,/ˈkoɚs/,n," noun 
+ verb "
+619,summer,/ˈsʌmɚ/,n," noun 
+ verb "
+620,less,"/ləs/
+/ˈlɛs/",d," adj 
+ adv 
+ prep 
+ pronoun "
+621,realize,/ˈriːjəˌlaız/,v, verb 
+622,hundred,"/ˈhʌndrəd/
+/ˈhʌndrədθ/",m," adj 
+ adv 
+ noun 
+ pronoun "
+623,available,"/əˈveıləbəl/
+/əˌveıləˈbıləti/",j," adj 
+ noun "
+624,plant,"/ˈplænt/
+/ˈplæntˌlaık/",n," adj 
+ noun 
+ verb "
+625,likely,/ˈlaıkli/,j," adj 
+ adv 
+ noun "
+626,opportunity,"/ˌɑːpɚˈtuːnəti, Brit ˌɒpəˈtjuːnəti/",n, noun 
+627,term,/ˈtɚm/,n," noun 
+ verb "
+628,short,"/ˈʃoɚt/
+/ˈʃoɚtnəs/",j," adj 
+ adv 
+ noun 
+ verb "
+629,letter,/ˈlɛtɚ/,n," noun 
+ verb "
+630,condition,/kənˈdıʃən/,n," noun 
+ verb "
+631,choice,/ˈʧoıs/,n," adj 
+ noun "
+632,place,/ˈpleıs/,v," noun 
+ verb "
+633,single,/ˈsıŋgəl/,j," adj 
+ noun 
+ verb "
+634,rule,/ˈruːl/,n," noun 
+ verb "
+635,daughter,"/ˈdɑːtɚ/
+/ˈdɑːtɚli/",n," adj 
+ noun "
+636,administration,/ədˌmınəˈstreıʃən/,n, noun 
+637,south,/ˈsaʊθ/,n," adj 
+ adv 
+ noun "
+638,husband,/ˈhʌzbənd/,n," noun 
+ verb "
+639,Congress,"/ˈkɑːŋgrəs, Brit ˈkɑːŋˌgrɛs/
+/kənˈgrɛʃənl̩/",n," adj 
+ noun "
+640,floor,/ˈfloɚ/,n," noun 
+ verb "
+641,campaign,/kæmˈpeın/,n," noun 
+ verb "
+642,material,/məˈtirijəl/,n," adj 
+ adv 
+ noun "
+643,population,/ˌpɑːpjəˈleıʃən/,n, noun 
+644,well,"/ˈwiːl, ˈwıl/
+/ˈwɛl/
+/ˈbɛtɚ/
+/ˈbɛst/",i," adj 
+ adv 
+ interj 
+ noun 
+ verb "
+645,call,/ˈkɑːl/,n," noun 
+ verb "
+646,economy,/ıˈkɑːnəmi/,n," adj 
+ noun "
+647,medical,"/ˈmɛdıkəl/
+/ˈmɛdıkli/",j," adj 
+ adv 
+ noun "
+648,hospital,/ˈhɑːspıtl̩/,n, noun 
+649,church,/ˈʧɚʧ/,n, noun 
+650,close,"/ˈkloʊz/
+/ˈkloʊs/
+/ˈkloʊs/
+/ˈkloʊz/
+/ˈkloʊs/",v," adj 
+ adv 
+ noun 
+ verb "
+651,thousand,"/ˈθaʊzənd/
+/ˈθaʊzəndθ/",m," adj 
+ noun 
+ pronoun "
+652,risk,/ˈrısk/,n," noun 
+ verb "
+653,current,/ˈkɚrənt/,j," adj 
+ adv 
+ noun "
+654,fire,/ˈfajɚ/,n," noun 
+ verb "
+655,future,/ˈfjuːʧɚ/,n," adj 
+ noun "
+656,wrong,/ˈrɑːŋ/,j," adj 
+ adv 
+ noun 
+ verb "
+657,involve,"/ınˈvɑːlv/
+/ınˈvɑːlvmənt/",v," noun 
+ verb "
+658,defense,/dıˈfɛns/,n, noun 
+659,anyone,/ˈɛniˌwʌn/,p, pronoun 
+660,increase,"/ınˈkriːs/
+/ˈınˌkriːs/",v," adj 
+ noun 
+ verb "
+661,security,/sıˈkjɚrəti/,n, noun 
+662,bank,/ˈbæŋk/,n," noun 
+ verb "
+663,myself,/maıˈsɛlf/,p, pronoun 
+664,certainly,/ˈsɚtn̩li/,r, adv 
+665,west,/ˈwɛst/,n," adj 
+ adv 
+ noun "
+666,sport,/ˈspoɚt/,n," adj 
+ noun 
+ verb "
+667,board,/ˈboɚd/,n," noun 
+ verb "
+668,seek,"/ˈsiːk/
+/ˈsɑːt/",v," noun 
+ verb "
+669,per,/ˈpɚ/,i, prep 
+670,subject,"/ˈsʌbʤıkt/
+/ˈsʌbʤıkt/
+/səbˈʤɛkt/
+/səbˈʤɛkʃən/",n," adj 
+ noun 
+ verb "
+671,officer,/ˈɑːfəsɚ/,n, noun 
+672,private,/ˈpraıvət/,j," adj 
+ adv 
+ noun "
+673,rest,/ˈrɛst/,n," noun 
+ verb "
+674,behavior,"/bıˈheıvjɚ/
+/bıˈheıvjərəl/",n," adj 
+ noun "
+675,deal,"/ˈdiːl/
+/ˈdɛlt/",v," noun 
+ verb "
+676,performance,/pɚˈfoɚməns/,n, noun 
+677,fight,"/ˈfaıt/
+/ˈfɑːt/",v," adj 
+ noun 
+ verb "
+678,throw,"/ˈθroʊ/
+/ˈθruː/
+/ˈθroʊn/",v," noun 
+ verb "
+679,top,/ˈtɑːp/,n," adj 
+ noun 
+ verb "
+680,quickly,/ˈkwıkli/,r, adv 
+681,past,"/ˈpæst, Brit ˈpɑːst/",j," adj 
+ adv 
+ noun 
+ prep "
+682,goal,"/ˈgoʊl/
+/ˈgoʊlləs/",n," adj 
+ noun "
+683,second,/ˈsɛkənd/,n," adj 
+ adv 
+ noun 
+ verb "
+684,bed,/ˈbɛd/,n," noun 
+ verb "
+685,order,"/ˈoɚdɚ/
+/ˈoɚdɚləs/
+/ˈoɚdɚrəbəl/
+/ˈoɚdɚrɚ/",n," adj 
+ noun 
+ verb "
+686,author,/ˈɑːθɚ/,n," noun 
+ verb "
+687,fill,/ˈfıl/,v," noun 
+ verb "
+688,represent,/ˌrɛprıˈzɛnt/,v, verb 
+689,focus,"/ˈfoʊkəs/
+/ˈfoʊˌsaı/",v," noun 
+ verb "
+690,foreign,"/ˈforən/
+/ˈforənnəs/",j," adj 
+ noun "
+691,drop,/ˈdrɑːp/,v," noun 
+ verb "
+692,plan,/ˈplæn/,v," noun 
+ verb "
+693,blood,/ˈblʌd/,n, noun 
+694,upon,/əˈpɑːn/,i, prep 
+695,agency,/ˈeıʤənsi/,n, noun 
+696,push,/ˈpʊʃ/,v," noun 
+ verb "
+697,nature,/ˈneıʧɚ/,n, noun 
+698,color,/ˈkʌlɚ/,n," noun 
+ verb "
+699,no,/ˈnoʊ/,r," adj 
+ adv 
+ noun "
+700,recently,/ˈriːsn̩tli/,r, adv 
+701,store,/ˈstoɚ/,n," noun 
+ verb "
+702,reduce,"/rıˈduːs, Brit rıˈdjuːs/
+/rıˈduːsəbəl, Brit rıˈdjuːsəbəl/",v," adj 
+ noun 
+ verb "
+703,sound,"/ˈsaʊnd/
+/ˈsaʊndli/
+/ˈsaʊndnəs/",n," adj 
+ adv 
+ noun 
+ verb "
+704,note,/ˈnoʊt/,v," noun 
+ verb "
+705,fine,"/ˈfaın/
+/ˈfaınli/
+/ˈfaınnəs/",j," adj 
+ adv 
+ noun 
+ verb "
+706,before,/bıˈfoɚ/,r," adv 
+ conj 
+ prep "
+707,near,/ˈniɚ/,i," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+708,movement,/ˈmuːvmənt/,n, noun 
+709,page,/ˈpeıʤ/,n," noun 
+ verb "
+710,enter,/ˈɛntɚ/,v, verb 
+711,share,/ˈʃeɚ/,v," noun 
+ verb "
+712,than,"/ˈðæn, ðən/",i," conj 
+ prep "
+713,common,"/ˈkɑːmən/
+/ˈkɑːmənnəs/",j," adj 
+ adv 
+ noun "
+714,poor,/ˈpuɚ/,j, adj 
+715,other,/ˈʌðɚ/,p," adj 
+ pronoun "
+716,natural,"/ˈnæʧərəl/
+/ˈnæʧərəlnəs/",j," adj 
+ noun "
+717,race,/ˈreıs/,n," noun 
+ verb "
+718,concern,/kənˈsɚn/,n," noun 
+ verb "
+719,series,/ˈsiriz/,n, noun 
+720,significant,/sıgˈnıfıkənt/,j, adj 
+721,similar,/ˈsıməlɚ/,j, adj 
+722,hot,/ˈhɑːt/,j," adj 
+ adv 
+ noun 
+ verb "
+723,language,/ˈlæŋgwıʤ/,n, noun 
+724,each,/ˈiːʧ/,p," adj 
+ adv 
+ pronoun "
+725,usually,/ˈjuːʒəwəli/,r, adv 
+726,response,/rıˈspɑːns/,n, noun 
+727,dead,/ˈdɛd/,j," adj 
+ adv 
+ noun "
+728,rise,"/ˈraız/
+/ˈroʊz/
+/ˈrızn̩/
+/ˈraızıŋ/",v," noun 
+ verb "
+729,animal,/ˈænəməl/,n," adj 
+ noun "
+730,factor,/ˈfæktɚ/,n," noun 
+ verb "
+731,decade,/ˈdɛˌkeıd/,n, noun 
+732,article,/ˈɑɚtıkəl/,n," adj 
+ noun 
+ verb "
+733,shoot,"/ˈʃuːt/
+/ˈʃɑːt/",v," interj 
+ noun 
+ verb "
+734,east,/ˈiːst/,n," adj 
+ adv 
+ noun "
+735,save,/ˈseıv/,v," conj 
+ noun 
+ prep 
+ verb "
+736,seven,/ˈsɛvən/,m," adj 
+ noun 
+ pronoun "
+737,artist,/ˈɑɚtıst/,n, noun 
+738,away,/əˈweı/,i," adj 
+ adv "
+739,scene,/ˈsiːn/,n, noun 
+740,stock,/ˈstɑːk/,n," adj 
+ noun 
+ verb "
+741,career,/kəˈriɚ/,n," noun 
+ verb "
+742,despite,/dıˈspaıt/,i, prep 
+743,central,"/ˈsɛntrəl/
+/sɛnˈtræləti/
+/ˈsɛntrəli/",j," adj 
+ adv 
+ noun "
+744,eight,/ˈeıt/,m," adj 
+ noun 
+ pronoun "
+745,thus,/ˈðʌs/,r, adv 
+746,treatment,/ˈtriːtmənt/,n, noun 
+747,beyond,/biˈɑːnd/,i," adv 
+ prep "
+748,happy,/ˈhæpi/,j, adj 
+749,exactly,/ıgˈzæktli/,r, adv 
+750,protect,/prəˈtɛkt/,v," adj 
+ verb "
+751,approach,/əˈproʊʧ/,n," noun 
+ verb "
+752,lie,"/ˈlaı/
+/ˈleı/
+/ˈleın/
+/ˈlajıŋ/",v," noun 
+ verb "
+753,size,/ˈsaız/,n," adj 
+ noun 
+ verb "
+754,dog,/ˈdɑːg/,n," noun 
+ verb "
+755,fund,/ˈfʌnd/,n," noun 
+ verb "
+756,serious,/ˈsirijəs/,j, adj 
+757,occur,/əˈkɚ/,v, verb 
+758,media,/ˈmiːdijə/,n, noun 
+759,ready,/ˈrɛdi/,j," adj 
+ noun 
+ verb "
+760,sign,/ˈsaın/,n," noun 
+ verb "
+761,thought,/ˈθɑːt/,n, noun 
+762,list,/ˈlıst/,n," noun 
+ verb "
+763,individual,/ˌındəˈvıʤəwəl/,n," adj 
+ adv 
+ noun "
+764,simple,/ˈsımpəl/,j, adj 
+765,quality,/ˈkwɑːləti/,n," adj 
+ noun "
+766,pressure,/ˈprɛʃɚ/,n," noun 
+ verb "
+767,accept,"/ıkˈsɛpt/
+/ıkˈsɛptɚ/",v," adj 
+ noun 
+ verb "
+768,answer,"/ˈænsɚ, Brit ˈɑːnsə/
+/ˈænsɚɚ/",n," noun 
+ verb "
+769,hard,/ˈhɑɚd/,r," adj 
+ adv "
+770,resource,"/ˈriːˌsoɚs, Brit rıˈzɔːs/",n, noun 
+771,identify,"/aıˈdɛntəˌfaı/
+/aıˌdɛntəˈfajəbəl/
+/aıˌdɛntəˈfajəbli/",v," adj 
+ adv 
+ verb "
+772,left,/ˈlɛft/,j," adj 
+ adv 
+ noun "
+773,meeting,/ˈmiːtıŋ/,n, noun 
+774,determine,/dıˈtɚmən/,v, verb 
+775,prepare,/prıˈpeɚ/,v, verb 
+776,disease,"/dıˈziːz/
+/dıˈziːzd/",n," adj 
+ noun "
+777,whatever,"/wɑtˈɛvɚ, wʌtˈɛvɚ/",d," adj 
+ adv 
+ pronoun "
+778,success,/səkˈsɛs/,n, noun 
+779,argue,/ˈɑɚgju/,v," noun 
+ verb "
+780,cup,/ˈkʌp/,n," noun 
+ verb "
+781,particularly,/pɚˈtıkjəlɚli/,r, adv 
+782,amount,/əˈmaʊnt/,n," noun 
+ verb "
+783,ability,/əˈbıləti/,n, noun 
+784,staff,"/ˈstæf, Brit ˈstɑːf/
+/ˈsteıvz/",n," adj 
+ noun 
+ verb "
+785,recognize,"/ˈrɛkıgˌnaız/
+/ˈrɛkıgˌnaızəbəl/
+/ˈrɛkıgˌnaızəbli/",v," adj 
+ adv 
+ verb "
+786,indicate,/ˈındəˌkeıt/,v, verb 
+787,character,/ˈkerıktɚ/,n, noun 
+788,growth,/ˈgroʊθ/,n, noun 
+789,loss,/ˈlɑːs/,n, noun 
+790,degree,/dıˈgriː/,n, noun 
+791,wonder,/ˈwʌndɚ/,v," noun 
+ verb "
+792,attack,/əˈtæk/,n," adj 
+ noun 
+ verb "
+793,herself,/hɚˈsɛlf/,p, pronoun 
+794,region,"/ˈriːʤən/
+/ˈriːʤənl̩/",n," adj 
+ adv 
+ noun "
+795,television,/ˈtɛləˌvıʒən/,n, noun 
+796,box,/ˈbɑːks/,n," noun 
+ verb "
+797,TV,/ˈtiːˈviː/,n, noun 
+798,training,/ˈtreınıŋ/,n, noun 
+799,pretty,"/ˈprıti/
+/ˈprıtəli/
+/ˈprıtinəs/",r," adj 
+ adv 
+ noun 
+ verb "
+800,trade,/ˈtreıd/,n," noun 
+ verb "
+801,deal,"/ˈdiːl/
+/ˈdɛlt/",n," noun 
+ verb "
+802,election,/ıˈlɛkʃən/,n, noun 
+803,everybody,"/ˈɛvriˌbʌdi, ˈɛvriˌbɑːdi, Brit ˈɛvriˌbɒdi/",p, pronoun 
+804,physical,"/ˈfızıkəl/
+/ˌfızəˈkæləti/",j," adj 
+ noun "
+805,lay,"/ˈleı/
+/ˈleıd/",v," adj 
+ noun 
+ verb "
+806,general,/ˈʤɛnrəl/,j," adj 
+ noun "
+807,feeling,/ˈfiːlıŋ/,n, noun 
+808,standard,/ˈstændɚd/,n," adj 
+ noun "
+809,bill,/ˈbıl/,n," noun 
+ verb "
+810,message,/ˈmɛsıʤ/,n, noun 
+811,fail,/ˈfeıl/,v," noun 
+ verb "
+812,outside,"/ˌaʊtˈsaıd, ˈaʊtˌsaıd/",i," adj 
+ adv 
+ noun 
+ prep "
+813,arrive,/əˈraıv/,v, verb 
+814,analysis,"/əˈnæləsis/
+/-əˌsiːz/",n, noun 
+815,benefit,/ˈbɛnəˌfıt/,n," noun 
+ verb "
+816,name,/ˈneım/,v," adj 
+ noun 
+ verb "
+817,sex,/ˈsɛks/,n, noun 
+818,forward,"/ˈfoɚwɚd/
+/ˈfoɚˌwɚdz/",r," adj 
+ adv 
+ noun 
+ verb "
+819,lawyer,"/ˈlɑːjɚ, ˈlojɚ/",n, noun 
+820,present,"/ˈprɛzn̩t/
+/prıˈzɛnt/
+/ˈprɛzn̩t/
+/ˈprɛzn̩t/",v," adj 
+ noun 
+ verb "
+821,section,/ˈsɛkʃən/,n," noun 
+ verb "
+822,environmental,/ınˌvaırənˈmɛntl̩/,j, adj 
+823,glass,"/ˈglæs, Brit ˈglɑːs/
+/ˈglæsˌfʊɬ, Brit ˈglɑsˌfʊɬ/",n," noun 
+ verb "
+824,answer,"/ˈænsɚ, Brit ˈɑːnsə/
+/ˈænsɚɚ/",v," noun 
+ verb "
+825,skill,/ˈskıl/,n, noun 
+826,sister,/ˈsıstɚ/,n," adj 
+ noun "
+827,PM,,r,
+828,professor,"/prəˈfɛsɚ/
+/ˌproʊfəˈsorijəl/
+/ˌproʊfəˈsorijəl/
+/prəˈfɛsɚˌʃıp/
+/ˈprɑːfɚ/
+/prəˈfıʃənsi/
+/prəˈfıʃənt/
+/prəˈfıʃənsi/
+/ˈproʊˌfajəl/
+/ˈprɑːfət/
+/ˌprɑːfətəˈbıləti/
+/ˈprɑːfətəbəl/
+/ˌprɑːfətəˈbıləti/
+/ˈprɑːfətəbli/
+/ˈprɑːfətəbli/
+/ˌprɑːfəˈtiɚ/
+/ˌprɑːfəˈtirıŋ/
+/ˌprɑːfəˈtiɚ/
+/prəˈfıtəˌroʊl/
+/ˈprɑːfətləs/
+/ˈprɑːflıgəsi/
+/ˈprɑːflıgət/
+/ˈprɑːflıgəsi/
+/proʊˈfoɚmə/
+/prəˈfaʊnd/
+/prəˈfʌndəti/
+/prəˈfjuːs/
+/prəˈfjuːʒən/
+/proʊˈʤɛnətɚ/
+/ˈprɑːʤəni/
+/proʊˈʤɛstəˌroʊn/
+/prɑgˈnoʊsəs/
+/-ˈnoʊˌsiːz/
+/prɑgˈnɑːstık/",n," adj 
+ adv 
+ noun 
+ verb "
+829,operation,/ˌɑːpəˈreıʃən/,n, noun 
+830,financial,/fəˈnænʃəl/,j," adj 
+ adv "
+831,crime,/ˈkraım/,n, noun 
+832,stage,/ˈsteıʤ/,n," noun 
+ verb "
+833,ok,/oʊˈkeı/,r," adj 
+ adv 
+ noun 
+ verb "
+834,compare,/kəmˈpeɚ/,v," noun 
+ verb "
+835,authority,/əˈθorəti/,n, noun 
+836,miss,/ˈmıs/,v," noun 
+ verb "
+837,design,/dıˈzaın/,n," noun 
+ verb "
+838,sort,/ˈsoɚt/,n," noun 
+ verb "
+839,one,/ˈwʌn/,n," adj 
+ noun 
+ pronoun "
+840,act,/ˈækt/,v," noun 
+ verb "
+841,ten,/ˈtɛn/,m," adj 
+ noun 
+ pronoun "
+842,knowledge,/ˈnɑːlıʤ/,n, noun 
+843,gun,/ˈgʌn/,n," noun 
+ verb "
+844,station,/ˈsteıʃən/,n," noun 
+ verb "
+845,blue,/ˈbluː/,j," adj 
+ noun "
+846,state,/ˈsteıt/,v," noun 
+ verb "
+847,strategy,/ˈstrætəʤi/,n, noun 
+848,little,"/ˈlıtl̩/
+/ˈlɛs/
+/ˈlɛsɚ/
+/ˈlıtl̩ɚ/
+/ˈliːst/
+/ˈlıtl̩əst/
+/ˈlıtl̩nəs/",d," adj 
+ adv 
+ noun 
+ pronoun "
+849,clearly,/ˈkliɚli/,r, adv 
+850,discuss,/dıˈskʌs/,v, verb 
+851,indeed,/ınˈdiːd/,r, adv 
+852,force,/ˈfoɚs/,v," noun 
+ verb "
+853,truth,"/ˈtruːθ/
+/ˈtruːðz, ˈtruːθs/",n, noun 
+854,song,/ˈsɑːŋ/,n, noun 
+855,example,/ıgˈzæmpəl/,n, noun 
+856,democratic,"/ˌdɛməˈkrætık/
+/ˌdɛməˈkrætıkli/",j," adj 
+ adv "
+857,check,/ˈʧɛk/,v," adj 
+ noun 
+ verb "
+858,environment,"/ınˈvaırənmənt/
+/ınˌvaırənˈmɛntl̩/
+/ınˌvaırənˈmɛntl̩i/",n," adj 
+ adv 
+ noun "
+859,leg,/ˈlɛg/,n," noun 
+ verb "
+860,dark,"/ˈdɑɚk/
+/ˈdɑɚkıʃ/",j," adj 
+ noun "
+861,public,/ˈpʌblık/,n," adj 
+ noun "
+862,various,/ˈverijəs/,j, adj 
+863,rather,"/ˈræðɚ, Brit ˈrɑːðə/",r, adv 
+864,laugh,"/ˈlæf, Brit ˈlɑːf/
+/ˈlæfɚ, Brit ˈlɑːfɚ/",v," noun 
+ verb "
+865,guess,/ˈgɛs/,v," noun 
+ verb "
+866,executive,/ıgˈzɛkjətıv/,n," adj 
+ noun "
+867,set,/ˈsɛt/,n," adj 
+ noun 
+ verb "
+868,study,/ˈstʌdi/,v," noun 
+ verb "
+869,prove,"/ˈpruːv/
+/ˈpruːvən/
+/ˈpruːvəbəl/",v," adj 
+ verb "
+870,hang,"/ˈhæŋ/
+/ˈhʌŋ/",v," noun 
+ verb "
+871,entire,/ınˈtajɚ/,j," adj 
+ adv "
+872,rock,/ˈrɑːk/,n," noun 
+ verb "
+873,design,/dıˈzaın/,v," noun 
+ verb "
+874,enough,/ıˈnʌf/,d," adj 
+ adv 
+ pronoun "
+875,forget,"/fɚˈgɛt/
+/-ˈgɑːt/
+/-ˈgɑːtn̩/",v, verb 
+876,since,/ˈsıns/,i," adv 
+ conj 
+ prep "
+877,claim,"/ˈkleım/
+/ˈkleıməbəl/",v," adj 
+ noun 
+ verb "
+878,note,/ˈnoʊt/,n," noun 
+ verb "
+879,remove,/rıˈmuːv/,v," noun 
+ verb "
+880,manager,/ˈmænıʤɚ/,n, noun 
+881,help,/ˈhɛlp/,n," noun 
+ verb "
+882,close,"/ˈkloʊz/
+/ˈkloʊs/
+/ˈkloʊs/
+/ˈkloʊz/
+/ˈkloʊs/",j," adj 
+ adv 
+ noun 
+ verb "
+883,sound,"/ˈsaʊnd/
+/ˈsaʊndli/
+/ˈsaʊndnəs/",v," adj 
+ adv 
+ noun 
+ verb "
+884,enjoy,"/ınˈʤoı/
+/ınˈʤojəbəl/
+/ınˈʤojəbli/",v," adj 
+ adv 
+ verb "
+885,network,/ˈnɛtˌwɚk/,n," noun 
+ verb "
+886,legal,"/ˈliːgəl/
+/lıˈgæləti/
+/ˈliːgəli/",j," adj 
+ adv 
+ noun "
+887,religious,/rıˈlıʤəs/,j, adj 
+888,cold,/ˈkoʊld/,j," adj 
+ adv 
+ noun "
+889,form,/ˈfoɚm/,v," noun 
+ verb "
+890,final,/ˈfaınl̩/,j," adj 
+ noun "
+891,main,/ˈmeın/,j," adj 
+ adv 
+ noun "
+892,science,/ˈsajəns/,n, noun 
+893,green,"/ˈgriːn/
+/ˈgriːnıʃ/
+/ˈgriːnnəs/",j," adj 
+ noun "
+894,memory,/ˈmɛməri/,n, noun 
+895,card,/ˈkɑɚd/,n," noun 
+ verb "
+896,above,/əˈbʌv/,i," adj 
+ adv 
+ prep "
+897,seat,/ˈsiːt/,n," noun 
+ verb "
+898,cell,"/ˈsɛl/
+/ˈsɛɬd/",n," adj 
+ noun "
+899,establish,/ıˈstæblıʃ/,v, verb 
+900,nice,/ˈnaıs/,j," adj 
+ noun "
+901,trial,/ˈtrajəl/,n," adj 
+ noun 
+ verb "
+902,expert,/ˈɛkˌspɚt/,n," adj 
+ adv 
+ noun "
+903,that,"/ˈðæt, ðət/
+/ˈðoʊz/
+/ˈðæt/",r," adj 
+ adv 
+ conj 
+ pronoun "
+904,spring,"/ˈsprıŋ/
+/ˈspræŋ/
+/ˈsprʌŋ/",n," noun 
+ verb "
+905,firm,/ˈfɚm/,n," adj 
+ adv 
+ noun 
+ verb "
+906,Democrat,/ˈdɛməˌkræt/,n, noun 
+907,radio,/ˈreıdiˌoʊ/,n," noun 
+ verb "
+908,visit,/ˈvızət/,v," noun 
+ verb "
+909,management,/ˈmænıʤmənt/,n, noun 
+910,care,/ˈkeɚ/,v," noun 
+ verb "
+911,avoid,"/əˈvoıd/
+/əˈvoıdəbəl/",v," adj 
+ verb "
+912,imagine,/ıˈmæʤən/,v, verb 
+913,tonight,/təˈnaıt/,r," adv 
+ noun "
+914,huge,/ˈhjuːʤ/,j," adj 
+ adv "
+915,ball,/ˈbɑːl/,n," noun 
+ verb "
+916,no,/ˈnoʊ/,u," adj 
+ adv 
+ noun "
+917,close,"/ˈkloʊz/
+/ˈkloʊs/
+/ˈkloʊs/
+/ˈkloʊz/
+/ˈkloʊs/",r," adj 
+ adv 
+ noun 
+ verb "
+918,finish,/ˈfınıʃ/,v," noun 
+ verb "
+919,yourself,/jɚˈsɛlf/,p, pronoun 
+920,talk,/ˈtɑːk/,n," noun 
+ verb "
+921,theory,/ˈθiːjəri/,n, noun 
+922,impact,"/ˈımˌpækt/
+/ˌımˈpækt/",n," noun 
+ verb "
+923,respond,/rıˈspɑːnd/,v, verb 
+924,statement,/ˈsteıtmənt/,n, noun 
+925,maintain,/meınˈteın/,v, verb 
+926,charge,/ˈʧɑɚʤ/,n," noun 
+ verb "
+927,popular,/ˈpɑːpjəlɚ/,j, adj 
+928,traditional,/trəˈdıʃənl̩/,j," adj 
+ adv "
+929,onto,/ˈɑːntʊ/,i, prep 
+930,reveal,/rıˈviːl/,v, verb 
+931,direction,"/dəˈrɛkʃən/
+/dəˈrɛktnəs/",n," adj 
+ noun "
+932,weapon,/ˈwɛpən/,n, noun 
+933,employee,"/ımˌploıˈiː, ımˈploıˌiː/",n, noun 
+934,cultural,/ˈkʌlʧərəl/,j," adj 
+ adv "
+935,contain,"/kənˈteın/
+/kənˈteınəbəl/",v," adj 
+ verb "
+936,peace,/ˈpiːs/,n, noun 
+937,head,/ˈhɛd/,v," noun 
+ verb "
+938,control,"/kənˈtroʊl/
+/kənˈtroʊləbəl/",v," adj 
+ noun 
+ verb "
+939,base,/ˈbeıs/,n," adj 
+ adv 
+ noun 
+ verb "
+940,pain,/ˈpeın/,n," noun 
+ verb "
+941,apply,/əˈplaı/,v, verb 
+942,play,/ˈpleı/,n," noun 
+ verb "
+943,measure,"/ˈmɛʒɚ/
+/ˈmɛʒɚrɚ/",n," noun 
+ verb "
+944,wide,/ˈwaıd/,j," adj 
+ adv 
+ noun "
+945,shake,"/ˈʃeık/
+/ˈʃʊk/
+/ˈʃeıkən/",v," noun 
+ verb "
+946,fly,"/ˈflaı/
+/ˈfluː/
+/ˈfloʊn/",v," noun 
+ verb "
+947,interview,/ˈıntɚˌvjuː/,n," noun 
+ verb "
+948,manage,/ˈmænıʤ/,v, verb 
+949,chair,/ˈʧeɚ/,n," noun 
+ verb "
+950,fish,"/ˈfıʃ/
+/ˈfıʃləs/
+/ˈfısˌlaık/",n," adj 
+ noun 
+ verb "
+951,particular,/pɚˈtıkjəlɚ/,j," adj 
+ noun "
+952,camera,/ˈkæmrə/,n, noun 
+953,structure,/ˈstrʌkʧɚ/,n," noun 
+ verb "
+954,politics,/ˈpɑːləˌtıks/,n, noun 
+955,perform,/pɚˈfoɚm/,v, verb 
+956,bit,/bıt/,n, noun 
+957,weight,/ˈweıt/,n," noun 
+ verb "
+958,suddenly,/ˈsʌdn̩li/,r, adv 
+959,discover,/dıˈskʌvɚ/,v," noun 
+ verb "
+960,candidate,"/ˈkændəˌdeıt, ˈkændədət/",n, noun 
+961,top,/ˈtɑːp/,j," adj 
+ noun 
+ verb "
+962,production,/prəˈdʌkʃən/,n, noun 
+963,treat,/ˈtriːt/,v," noun 
+ verb "
+964,trip,/ˈtrıp/,n," noun 
+ verb "
+965,evening,/ˈiːvnıŋ/,n, noun 
+966,affect,/əˈfɛkt/,v, verb 
+967,inside,"/ınˈsaıd, ˈınˌsaıd/",i," adj 
+ adv 
+ noun 
+ prep "
+968,conference,/ˈkɑːnfərəns/,n, noun 
+969,unit,/ˈjuːnət/,n, noun 
+970,best,/ˈbɛst/,r," adj 
+ adv 
+ noun 
+ verb "
+971,style,/ˈstajəl/,n," noun 
+ verb "
+972,adult,"/əˈdʌlt, ˈæˌdʌlt/
+/əˈdʌltˌhʊd/",n," adj 
+ noun "
+973,worry,/ˈwɚri/,v," noun 
+ verb "
+974,range,/ˈreınʤ/,n," noun 
+ verb "
+975,mention,/ˈmɛnʃən/,v," noun 
+ verb "
+976,rather,"/ˈræðɚ, Brit ˈrɑːðə/",i, adv 
+977,far,"/ˈfɑɚ/
+/ˈfɑɚðɚ/
+/ˈfɚðɚ/
+/ˈfɑɚðəst/
+/ˈfɚðəst/",j," adj 
+ adv "
+978,deep,/ˈdiːp/,j," adj 
+ adv 
+ noun "
+979,past,"/ˈpæst, Brit ˈpɑːst/",n," adj 
+ adv 
+ noun 
+ prep "
+980,edge,"/ˈɛʤ/
+/ˈɛʤd/",n," adj 
+ noun 
+ verb "
+981,individual,/ˌındəˈvıʤəwəl/,j," adj 
+ adv 
+ noun "
+982,specific,/spıˈsıfık/,j, adj 
+983,writer,/ˈraıtɚ/,n, noun 
+984,trouble,/ˈtrʌbəl/,n," noun 
+ verb "
+985,necessary,"/ˈnɛsəˌseri, Brit ˈnɛsəsri/",j," adj 
+ noun "
+986,throughout,/θruˈaʊt/,i," adv 
+ prep "
+987,challenge,/ˈʧælənʤ/,n," noun 
+ verb "
+988,fear,/ˈfiɚ/,n," noun 
+ verb "
+989,shoulder,/ˈʃoʊldɚ/,n," noun 
+ verb "
+990,institution,"/ˌınstəˈtuːʃən, Brit ˌınstəˈtjuːʃən/
+/ˌınstəˈtuːʃənl̩, Brit ˌınstəˈtjuːʃənl̩/",n," adj 
+ noun "
+991,middle,/ˈmıdl̩/,j," adj 
+ noun "
+992,sea,/ˈsiː/,n, noun 
+993,dream,"/ˈdriːm/
+/ˈdrɛmt, ˈdriːmd/
+/ˈdrɛmt/",n," noun 
+ verb "
+994,bar,/ˈbɑɚ/,n," noun 
+ prep 
+ verb "
+995,beautiful,"/ˈbjuːtıfəl/
+/ˈbjuːtıfli/",j," adj 
+ adv "
+996,property,/ˈprɑːpɚti/,n, noun 
+997,instead,/ınˈstɛd/,r, adv 
+998,improve,/ımˈpruːv/,v," adj 
+ verb "
+999,stuff,/ˈstʌf/,n," noun 
+ verb "
+1000,detail,"/dıˈteıl, ˈdiːˌteıl/",n," noun 
+ verb "

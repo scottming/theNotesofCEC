@@ -1,0 +1,108 @@
+ noun ,802
+ pl ,656
+ informal ,575
+ verb ,435
+ adj ,363
+ or ,252
+ adv ,229
+ Brit ,107
+ US ,83
+ pronoun ,71
+ formal ,68
+ or Brit ,62
+ also ,54
+ prep ,51
+ (US) ,41
+ chiefly US ,38
+ chiefly Brit ,36
+ or chiefly Brit ,35
+ conj ,31
+ old-fashioned ,21
+ or US ,16
+ also Brit ,12
+ noncount  ],11
+ abbr ,11
+ (chiefly US) ,10
+ interj ,9
+ or chiefly US ,9
+ also chiefly Brit ,8
+ literary ,8
+ formal + literary ,8
+ somewhat formal ,7
+ informal + old-fashioned ,7
+ somewhat old-fashioned ,5
+ noun suffix ,5
+ adj suffix ,4
+ past tense ,3
+ also US ,3
+ medical ,3
+ present tense for both singular and plural ,3
+ law ,3
+ informal + impolite ,3
+ somewhat informal ,3
+ informal + offensive ,3
+ US slang ,3
+ also (informal) ,3
+ sports ,3
+ old-fashioned + literary ,3
+ American football ,2
+" of a radio or television station, program, etc. ",2
+ of a plant ,2
+ literary + old-fashioned ,2
+ usually disapproving ,2
+ noun combining form ,2
+ somewhat formal + old-fashioned ,2
+ negative ,2
+ technical ,2
+ of a ball ,2
+ informal + humorous ,2
+ informal + often disapproving ,2
+ disapproving ,2
+ second singular ,2
+ informal + somewhat old-fashioned ,2
+ present participle ,1
+ old fashioned ,1
+ third singular ,1
+ past tense for first and third singular ,1
+ past participle ,1
+ chiefly Australia + Brit ,1
+ impolite ,1
+ indefinite article ,1
+ usually ,1
+ of a ship ,1
+ present first singular ,1
+ business ,1
+ of sleep ,1
+ of a man ,1
+ informal + usually disapproving ,1
+ informal + sometimes offensive ,1
+ offensive ,1
+ literary + formal ,1
+ humorous ,1
+ definite article ,1
+" of writing, a picture, etc. ",1
+ (informal) ,1
+ baseball ,1
+ of a liquid ,1
+ now usually used of a group of men ,1
+ negative forms ,1
+ old-fashioned slang ,1
+" of a painting, drawing, etc. ",1
+ pl also ,1
+ Brit slang ,1
+ adj combining form ,1
+ or in sense 7 ,1
+ formal + old-fashioned ,1
+" of a film, recording, etc. ",1
+ of a baby ,1
+ of a piece of clothing ,1
+ tennis ,1
+ computers ,1
+ or in sense 3 ,1
+ informal + disapproving ,1
+ formal + law ,1
+ of a person or body part ,1
+ past tense and past participle usually ,1
+" of an idea, plan, etc. ",1
+ also US (informal) ,1
+ slang ,1

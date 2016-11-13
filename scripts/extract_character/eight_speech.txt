@@ -1,0 +1,9 @@
+speech,count
+ noun ,802
+ verb ,435
+ adj ,363
+ adv ,229
+ pronoun ,71
+ prep ,51
+ conj ,31
+ interj ,9
