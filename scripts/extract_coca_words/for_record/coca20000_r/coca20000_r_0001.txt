@@ -1,0 +1,10 @@
+11,I
+12,that
+13,for
+14,you
+15,he
+16,with
+17,on
+18,do
+19,say
+20,this

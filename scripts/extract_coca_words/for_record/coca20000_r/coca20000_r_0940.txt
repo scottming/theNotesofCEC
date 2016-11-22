@@ -1,0 +1,10 @@
+9400,proxy
+9401,award-winning
+9402,clumsy
+9403,alphabet
+9404,punctuate
+9405,spaghetti
+9406,expansive
+9407,stringent
+9408,instinctively
+9409,limestone

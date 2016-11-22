@@ -1,0 +1,10 @@
+2480,straight
+2481,publication
+2482,pretty
+2483,crop
+2484,dig
+2485,strike
+2486,permanent
+2487,plant
+2488,phenomenon
+2489,anxiety

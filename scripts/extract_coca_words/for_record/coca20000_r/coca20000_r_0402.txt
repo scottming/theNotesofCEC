@@ -1,0 +1,10 @@
+4020,angel
+4021,switch
+4022,offering
+4023,rage
+4024,photography
+4025,repair
+4026,toilet
+4027,disappointed
+4028,precious
+4029,prohibit

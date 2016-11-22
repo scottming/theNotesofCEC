@@ -1,0 +1,10 @@
+10920,renounce
+10921,frown
+10922,handshake
+10923,envelop
+10924,pointer
+10925,emigrate
+10926,distrust
+10927,Shiite
+10928,arch
+10929,squeeze

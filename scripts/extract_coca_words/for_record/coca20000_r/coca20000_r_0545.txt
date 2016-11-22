@@ -1,0 +1,10 @@
+5450,courtesy
+5451,shotgun
+5452,subway
+5453,circulation
+5454,sentence
+5455,transplant
+5456,explosive
+5457,congressman
+5458,penetrate
+5459,illuminate

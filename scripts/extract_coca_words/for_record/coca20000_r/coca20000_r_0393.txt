@@ -1,0 +1,10 @@
+3930,spectrum
+3931,purple
+3932,laser
+3933,bold
+3934,reluctant
+3935,starting
+3936,expertise
+3937,practically
+3938,program
+3939,picture

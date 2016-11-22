@@ -1,0 +1,10 @@
+9860,best
+9861,perk
+9862,statistic
+9863,skater
+9864,afflict
+9865,defiant
+9866,amass
+9867,managed
+9868,apiece
+9869,slum

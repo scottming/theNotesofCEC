@@ -1,0 +1,10 @@
+17280,cuff
+17281,feces
+17282,heave
+17283,keg
+17284,synthesizer
+17285,woolen
+17286,inverse
+17287,intoxicate
+17288,grandkid
+17289,word

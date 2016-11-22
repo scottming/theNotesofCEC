@@ -1,0 +1,10 @@
+1010,cause
+1011,bag
+1012,heat
+1013,fall
+1014,marriage
+1015,tough
+1016,sing
+1017,surface
+1018,purpose
+1019,exist

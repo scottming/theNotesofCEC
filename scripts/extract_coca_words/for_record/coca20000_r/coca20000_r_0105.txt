@@ -1,0 +1,10 @@
+1050,modern
+1051,task
+1052,partner
+1053,positive
+1054,civil
+1055,kitchen
+1056,consumer
+1057,shot
+1058,budget
+1059,wish

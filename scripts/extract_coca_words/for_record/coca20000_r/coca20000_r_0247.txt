@@ -1,0 +1,10 @@
+2470,corn
+2471,moon
+2472,inner
+2473,junior
+2474,rather
+2475,throat
+2476,salary
+2477,swing
+2478,observer
+2479,due

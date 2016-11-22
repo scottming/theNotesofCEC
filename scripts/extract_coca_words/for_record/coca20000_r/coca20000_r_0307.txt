@@ -1,0 +1,10 @@
+3070,formation
+3071,scholarship
+3072,reservation
+3073,efficiency
+3074,waste
+3075,qualify
+3076,mall
+3077,derive
+3078,scandal
+3079,PC

@@ -1,0 +1,10 @@
+1550,shut
+1551,map
+1552,extra
+1553,session
+1554,danger
+1555,welcome
+1556,domestic
+1557,lots
+1558,literature
+1559,rain

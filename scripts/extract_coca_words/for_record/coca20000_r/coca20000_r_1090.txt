@@ -1,0 +1,10 @@
+10900,miss
+10901,Yugoslav
+10902,theorize
+10903,erratic
+10904,stronghold
+10905,expend
+10906,resilient
+10907,special
+10908,Mormon
+10909,dispel

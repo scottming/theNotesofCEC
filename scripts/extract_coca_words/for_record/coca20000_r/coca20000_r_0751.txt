@@ -1,0 +1,10 @@
+7510,mediate
+7511,cathedral
+7512,cram
+7513,genome
+7514,spike
+7515,worrying
+7516,lament
+7517,selfish
+7518,alternate
+7519,ignite

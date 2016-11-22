@@ -1,0 +1,10 @@
+7480,controlled
+7481,examiner
+7482,poison
+7483,foliage
+7484,respectable
+7485,ignorant
+7486,domination
+7487,prostate
+7488,climbing
+7489,dispatch

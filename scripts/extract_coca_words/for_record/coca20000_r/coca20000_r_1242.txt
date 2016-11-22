@@ -1,0 +1,10 @@
+12420,mammogram
+12421,latch
+12422,suspense
+12423,parity
+12424,stern
+12425,fresco
+12426,soil
+12427,ashtray
+12428,ditch
+12429,sexism

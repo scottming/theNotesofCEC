@@ -1,0 +1,10 @@
+10770,scroll
+10771,scripture
+10772,makeover
+10773,humanities [PL]
+10774,omission
+10775,turbulence
+10776,reptile
+10777,emeritus
+10778,collective
+10779,confound

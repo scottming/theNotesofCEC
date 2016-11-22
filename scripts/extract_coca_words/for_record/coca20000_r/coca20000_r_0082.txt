@@ -1,0 +1,10 @@
+820,present
+821,section
+822,environmental
+823,glass
+824,answer
+825,skill
+826,sister
+827,PM
+828,professor
+829,operation

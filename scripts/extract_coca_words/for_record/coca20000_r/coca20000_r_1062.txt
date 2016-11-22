@@ -1,0 +1,10 @@
+10620,sow
+10621,disguise
+10622,modernize
+10623,pharmacist
+10624,hardy
+10625,snap
+10626,stoop
+10627,pantry
+10628,avocado
+10629,trim

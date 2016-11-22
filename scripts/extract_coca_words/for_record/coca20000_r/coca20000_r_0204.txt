@@ -1,0 +1,10 @@
+2040,drink
+2041,accuse
+2042,hand
+2043,useful
+2044,land
+2045,secret
+2046,reject
+2047,talent
+2048,taste
+2049,characteristic [PL]

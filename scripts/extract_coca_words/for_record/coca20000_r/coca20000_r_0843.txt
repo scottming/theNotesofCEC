@@ -1,0 +1,10 @@
+8430,heartbeat
+8431,dot
+8432,sentimental
+8433,stainless
+8434,monumental
+8435,recognizable
+8436,memorize
+8437,upscale
+8438,inclusive
+8439,vocational

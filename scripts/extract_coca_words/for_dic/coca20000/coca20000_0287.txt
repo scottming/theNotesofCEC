@@ -1,0 +1,10 @@
+double
+swim
+tire
+fault
+loose
+free
+shortly
+originally
+considerable
+prior

@@ -1,0 +1,10 @@
+8460,backing
+8461,demonstrator
+8462,asphalt
+8463,microscope
+8464,sharpen
+8465,spear
+8466,subscription
+8467,savor
+8468,satisfactory
+8469,superpower

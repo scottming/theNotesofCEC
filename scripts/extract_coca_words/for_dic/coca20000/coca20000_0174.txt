@@ -1,0 +1,10 @@
+feature
+internal
+ethnic
+link
+stress
+content
+select
+root
+nose
+declare

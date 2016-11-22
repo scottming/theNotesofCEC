@@ -1,0 +1,10 @@
+1630,thin
+1631,temperature
+1632,surprise
+1633,poll
+1634,proposal
+1635,consequence
+1636,half
+1637,breath
+1638,sight
+1639,cover

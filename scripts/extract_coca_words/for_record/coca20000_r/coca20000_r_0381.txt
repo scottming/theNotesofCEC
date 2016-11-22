@@ -1,0 +1,10 @@
+3810,pleasant
+3811,wow
+3812,suspend
+3813,rebel
+3814,frozen
+3815,desire
+3816,spouse
+3817,fluid
+3818,pension
+3819,resume

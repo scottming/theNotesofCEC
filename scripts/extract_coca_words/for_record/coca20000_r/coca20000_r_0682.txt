@@ -1,0 +1,10 @@
+6820,air
+6821,backwards
+6822,clap
+6823,alpha
+6824,foil
+6825,uncommon
+6826,bearing
+6827,rude
+6828,bunker
+6829,frustrated

@@ -1,0 +1,10 @@
+8640,unpopular
+8641,worsen
+8642,chosen
+8643,devour
+8644,aged
+8645,con
+8646,tasty
+8647,simplify
+8648,haircut
+8649,envy

@@ -1,0 +1,10 @@
+10610,convertible
+10611,winery
+10612,anew
+10613,grad
+10614,fledgling
+10615,audible
+10616,fuse
+10617,disapproval
+10618,fabricate
+10619,year-old

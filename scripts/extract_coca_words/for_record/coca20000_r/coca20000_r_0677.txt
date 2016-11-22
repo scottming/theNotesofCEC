@@ -1,0 +1,10 @@
+6770,promptly
+6771,reopen
+6772,expanded
+6773,stall
+6774,eye
+6775,cheer
+6776,detention
+6777,dedicated
+6778,talking
+6779,liar

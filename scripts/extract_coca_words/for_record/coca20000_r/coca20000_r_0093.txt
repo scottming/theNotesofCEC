@@ -1,0 +1,10 @@
+930,reveal
+931,direction
+932,weapon
+933,employee
+934,cultural
+935,contain
+936,peace
+937,head
+938,control
+939,base

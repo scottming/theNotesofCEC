@@ -1,0 +1,10 @@
+17240,eraser
+17241,evasive
+17242,skinhead
+17243,redress
+17244,turtleneck
+17245,skitter
+17246,untested
+17247,jackpot
+17248,subordination
+17249,cupcake

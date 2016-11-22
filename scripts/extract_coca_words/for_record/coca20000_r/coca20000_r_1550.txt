@@ -1,0 +1,10 @@
+15500,dialysis
+15501,shyly
+15502,dismissive
+15503,bayonet
+15504,resolute
+15505,amnesia
+15506,noble
+15507,poplar
+15508,celibacy
+15509,unremarkable

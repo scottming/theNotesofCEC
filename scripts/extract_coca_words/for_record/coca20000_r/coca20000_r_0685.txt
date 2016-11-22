@@ -1,0 +1,10 @@
+6850,width
+6851,healing
+6852,therapeutic
+6853,fetch
+6854,greed
+6855,circular
+6856,siren
+6857,weary
+6858,vacant
+6859,complement

@@ -1,0 +1,10 @@
+5910,bark
+5911,inexpensive
+5912,terrify
+5913,governmental
+5914,sleeping
+5915,like
+5916,courtyard
+5917,fascinate
+5918,graphic
+5919,generator

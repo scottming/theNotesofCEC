@@ -1,0 +1,10 @@
+4570,curiosity
+4571,skip
+4572,aggression
+4573,stimulus
+4574,journalism
+4575,robot
+4576,flood
+4577,dip
+4578,likewise
+4579,informal

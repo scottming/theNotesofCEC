@@ -1,0 +1,10 @@
+15710,serial
+15711,sticking
+15712,brewery
+15713,pelt
+15714,inferiority
+15715,musket
+15716,laureate
+15717,bubbly
+15718,self-evident
+15719,puck

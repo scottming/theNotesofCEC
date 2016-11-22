@@ -1,0 +1,10 @@
+flask
+supervisory
+gamut
+outlay
+sorely
+ambience
+brewing
+glazed
+soprano
+goddamned

@@ -1,0 +1,10 @@
+7260,stare
+7261,paralyze
+7262,endanger
+7263,embarrass
+7264,billboard
+7265,equal
+7266,substantive
+7267,thermal
+7268,precinct
+7269,daytime

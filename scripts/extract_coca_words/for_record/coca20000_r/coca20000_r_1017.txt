@@ -1,0 +1,10 @@
+10170,careless
+10171,rigor
+10172,abandonment
+10173,marking
+10174,observed
+10175,suspended
+10176,flatter
+10177,altered
+10178,stale
+10179,finishing

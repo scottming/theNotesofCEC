@@ -1,0 +1,10 @@
+9230,outgoing
+9231,midwestern
+9232,clone
+9233,ballroom
+9234,logging
+9235,shoulder
+9236,knuckle
+9237,curtail
+9238,bladder
+9239,milestone

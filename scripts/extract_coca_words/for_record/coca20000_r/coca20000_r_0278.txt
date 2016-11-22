@@ -1,0 +1,10 @@
+2780,reflection
+2781,revolution
+2782,strip
+2783,interpret
+2784,friendly
+2785,tournament
+2786,fiction
+2787,detect
+2788,balance
+2789,likely

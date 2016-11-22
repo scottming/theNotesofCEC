@@ -1,0 +1,10 @@
+4740,plain
+4741,part
+4742,calendar
+4743,widow
+4744,deposit
+4745,beard
+4746,brake
+4747,downtown
+4748,screening
+4749,impulse

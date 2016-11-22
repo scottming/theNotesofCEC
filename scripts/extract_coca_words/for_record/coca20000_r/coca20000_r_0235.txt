@@ -1,0 +1,10 @@
+2350,severe
+2351,enhance
+2352,mystery
+2353,impose
+2354,poverty
+2355,other
+2356,entry
+2357,fat
+2358,spending
+2359,king

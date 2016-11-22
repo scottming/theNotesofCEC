@@ -1,0 +1,10 @@
+18000,dehydrate
+18001,reverend
+18002,tightening
+18003,outhouse
+18004,carousel
+18005,basal
+18006,alight
+18007,partition
+18008,spiky
+18009,cheddar

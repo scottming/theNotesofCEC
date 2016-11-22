@@ -1,0 +1,10 @@
+6010,sway
+6011,maximum
+6012,slip
+6013,sophomore
+6014,maximize
+6015,head
+6016,upgrade
+6017,manifest
+6018,refusal
+6019,erosion

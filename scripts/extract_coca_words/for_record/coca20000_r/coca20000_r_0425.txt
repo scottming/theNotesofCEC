@@ -1,0 +1,10 @@
+4250,bull
+4251,drawer
+4252,regard
+4253,sheep
+4254,discourage
+4255,coordinator
+4256,ideological
+4257,runner
+4258,secular
+4259,intimate

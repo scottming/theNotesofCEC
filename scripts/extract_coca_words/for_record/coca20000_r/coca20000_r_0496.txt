@@ -1,0 +1,10 @@
+4960,seller
+4961,skilled
+4962,managing
+4963,public
+4964,marine
+4965,dock
+4966,organized
+4967,fog
+4968,diplomat
+4969,boring

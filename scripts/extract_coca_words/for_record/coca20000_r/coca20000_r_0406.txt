@@ -1,0 +1,10 @@
+4060,spread
+4061,continent
+4062,seal
+4063,circuit
+4064,sink
+4065,ruling
+4066,shortage
+4067,annually
+4068,lately
+4069,trap

@@ -1,0 +1,10 @@
+9380,blindness
+9381,livelihood
+9382,chemist
+9383,after
+9384,dread
+9385,camper
+9386,disregard
+9387,rainfall
+9388,paddle
+9389,cranberry

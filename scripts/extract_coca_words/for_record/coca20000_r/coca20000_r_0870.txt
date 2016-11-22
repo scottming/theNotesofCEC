@@ -1,0 +1,10 @@
+8700,delight
+8701,volcanic
+8702,gracious
+8703,bargain
+8704,dissatisfaction
+8705,charismatic
+8706,thread
+8707,damaged
+8708,entertainer
+8709,refrigerate

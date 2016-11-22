@@ -1,0 +1,10 @@
+4640,halfway
+4641,cure
+4642,equality
+4643,cemetery
+4644,harassment
+4645,deliberately
+4646,fame
+4647,regret
+4648,striking
+4649,likelihood

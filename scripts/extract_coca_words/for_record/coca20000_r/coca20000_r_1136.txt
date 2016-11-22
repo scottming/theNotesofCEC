@@ -1,0 +1,10 @@
+11360,scowl
+11361,timer
+11362,beak
+11363,bristle
+11364,mistakenly
+11365,repository
+11366,verification
+11367,shallot
+11368,wake-up
+11369,rein

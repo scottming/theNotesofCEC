@@ -1,0 +1,10 @@
+2280,good [PL]
+2281,urge
+2282,occasion
+2283,dust
+2284,breathe
+2285,elect
+2286,investigator
+2287,jacket
+2288,glad
+2289,ordinary

@@ -1,0 +1,10 @@
+8490,heroine
+8491,jog
+8492,weekday
+8493,occupant
+8494,curved
+8495,thwart
+8496,awfully
+8497,cruelty
+8498,plateau
+8499,cosmetic

@@ -1,0 +1,10 @@
+8500,fin
+8501,stint
+8502,dispense
+8503,buffet
+8504,socialize
+8505,slaughter
+8506,lateral
+8507,retrospect
+8508,lily
+8509,clubhouse

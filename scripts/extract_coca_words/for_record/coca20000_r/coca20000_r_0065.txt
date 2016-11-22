@@ -1,0 +1,10 @@
+650,close
+651,thousand
+652,risk
+653,current
+654,fire
+655,future
+656,wrong
+657,involve
+658,defense
+659,anyone

@@ -1,0 +1,10 @@
+3350,painter
+3351,colonial
+3352,pie
+3353,sake
+3354,gaze
+3355,courage
+3356,pregnancy
+3357,swear
+3358,defeat
+3359,clue

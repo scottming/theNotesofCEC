@@ -1,0 +1,10 @@
+800,trade
+801,deal
+802,election
+803,everybody
+804,physical
+805,lay
+806,general
+807,feeling
+808,standard
+809,bill

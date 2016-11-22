@@ -1,0 +1,10 @@
+11310,construe
+11311,pink
+11312,suggested
+11313,burglar
+11314,intimate
+11315,scoff
+11316,throng
+11317,prep
+11318,weight
+11319,specificity

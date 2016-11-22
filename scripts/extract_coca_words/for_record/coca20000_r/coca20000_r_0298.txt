@@ -1,0 +1,10 @@
+2980,vulnerable
+2981,instance
+2982,garlic
+2983,capability
+2984,poetry
+2985,celebrity
+2986,gradually
+2987,stability
+2988,doubt
+2989,fantasy

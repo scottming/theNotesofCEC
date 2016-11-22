@@ -1,0 +1,10 @@
+1400,anyway
+1401,threaten
+1402,commit
+1403,female
+1404,youth
+1405,wave
+1406,move
+1407,afraid
+1408,quarter
+1409,background

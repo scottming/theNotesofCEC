@@ -1,0 +1,10 @@
+6810,shooter
+6811,scoring
+6812,geographical
+6813,beam
+6814,power
+6815,stain
+6816,publishing
+6817,unveil
+6818,imminent
+6819,flawed

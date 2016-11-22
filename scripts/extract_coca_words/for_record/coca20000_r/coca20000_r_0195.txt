@@ -1,0 +1,10 @@
+1950,dish
+1951,beach
+1952,improvement
+1953,everywhere
+1954,opening
+1955,overall
+1956,divide
+1957,initial
+1958,terrible
+1959,oppose

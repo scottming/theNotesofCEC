@@ -1,0 +1,10 @@
+5610,reserve
+5611,frighten
+5612,frightening
+5613,furious
+5614,poison
+5615,repeated
+5616,daddy
+5617,ruler
+5618,undoubtedly
+5619,rocky

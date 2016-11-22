@@ -1,0 +1,10 @@
+1430,shoe
+1431,view
+1432,grade
+1433,context
+1434,committee
+1435,hey
+1436,mistake
+1437,focus
+1438,smile
+1439,location

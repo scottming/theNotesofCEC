@@ -1,0 +1,10 @@
+10260,tack
+10261,police
+10262,password
+10263,sailing
+10264,thriving
+10265,fed
+10266,implant
+10267,aboriginal
+10268,unification
+10269,wane

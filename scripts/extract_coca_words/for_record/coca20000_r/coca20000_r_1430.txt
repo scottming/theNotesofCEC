@@ -1,0 +1,10 @@
+14300,acne
+14301,gratifying
+14302,unattractive
+14303,obnoxious
+14304,sclerosis
+14305,cockroach
+14306,cortex
+14307,bellow [PL]
+14308,clamp
+14309,mistrust

@@ -1,0 +1,10 @@
+770,resource
+771,identify
+772,left
+773,meeting
+774,determine
+775,prepare
+776,disease
+777,whatever
+778,success
+779,argue

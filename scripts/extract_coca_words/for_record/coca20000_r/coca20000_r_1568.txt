@@ -1,0 +1,10 @@
+15680,clique
+15681,pedophile
+15682,adversarial
+15683,cluttered
+15684,lingerie
+15685,spinner
+15686,savory
+15687,moisten
+15688,slant
+15689,carnivore

@@ -1,0 +1,10 @@
+manager
+help
+close
+sound
+enjoy
+network
+legal
+religious
+cold
+form

@@ -1,0 +1,10 @@
+15250,repayment
+15251,categorical
+15252,diligence
+15253,throb
+15254,loner
+15255,enslave
+15256,hoard
+15257,bleach
+15258,nourishment
+15259,fat-free

@@ -1,0 +1,10 @@
+5320,acute
+5321,motel
+5322,hatred
+5323,diameter
+5324,nursing
+5325,predecessor
+5326,induce
+5327,blast
+5328,enlist
+5329,disclosure

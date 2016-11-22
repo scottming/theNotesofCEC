@@ -1,0 +1,10 @@
+16270,quadrant
+16271,renegotiate
+16272,surname
+16273,extraterrestrial
+16274,kangaroo
+16275,fence
+16276,enormity
+16277,re-entry
+16278,cave
+16279,essayist

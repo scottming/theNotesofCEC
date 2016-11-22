@@ -1,0 +1,10 @@
+13230,cork
+13231,factor
+13232,impossibility
+13233,schema
+13234,teapot
+13235,ambush
+13236,flail
+13237,cunning
+13238,dreary
+13239,baptize

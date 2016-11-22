@@ -1,0 +1,10 @@
+4510,ideal
+4511,constitution
+4512,trainer
+4513,Thanksgiving
+4514,scent
+4515,stack
+4516,eyebrow
+4517,sack
+4518,cease
+4519,inherit

@@ -1,0 +1,10 @@
+760,sign
+761,thought
+762,list
+763,individual
+764,simple
+765,quality
+766,pressure
+767,accept
+768,answer
+769,hard

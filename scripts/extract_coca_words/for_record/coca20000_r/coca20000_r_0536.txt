@@ -1,0 +1,10 @@
+5360,erupt
+5361,graphic [PL]
+5362,loom
+5363,witch
+5364,endorsement
+5365,notable
+5366,dusty
+5367,glow
+5368,trip
+5369,cane

@@ -1,0 +1,10 @@
+8820,eyelid
+8821,cradle
+8822,paranoid
+8823,champion
+8824,lending
+8825,uniquely
+8826,curry
+8827,raise
+8828,pathogen
+8829,eruption

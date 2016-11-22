@@ -1,0 +1,10 @@
+9770,two-way
+9771,inference
+9772,persuasion
+9773,spill
+9774,monarchy
+9775,chlorine
+9776,riches [PL]
+9777,halo
+9778,pedal
+9779,wed

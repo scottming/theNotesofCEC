@@ -1,0 +1,10 @@
+1000,detail
+1001,method
+1002,sign
+1003,somebody
+1004,magazine
+1005,hotel
+1006,soldier
+1007,reflect
+1008,heavy
+1009,sexual

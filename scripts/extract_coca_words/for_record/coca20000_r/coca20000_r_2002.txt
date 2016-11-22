@@ -1,0 +1,10 @@
+20020,sunspot
+20021,stiletto
+20022,resound
+20023,floor
+20024,corporal
+20025,keypad
+20026,thud
+20027,summarily
+20028,agribusiness
+20029,self-help

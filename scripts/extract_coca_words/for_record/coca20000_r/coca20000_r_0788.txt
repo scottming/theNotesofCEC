@@ -1,0 +1,10 @@
+7880,trained
+7881,nasal
+7882,uprising
+7883,endurance
+7884,spicy
+7885,trajectory
+7886,constrain
+7887,ornament
+7888,orderly
+7889,saga

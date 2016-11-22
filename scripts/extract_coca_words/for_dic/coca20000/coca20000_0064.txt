@@ -1,0 +1,10 @@
+floor
+campaign
+material
+population
+well
+call
+economy
+medical
+hospital
+church

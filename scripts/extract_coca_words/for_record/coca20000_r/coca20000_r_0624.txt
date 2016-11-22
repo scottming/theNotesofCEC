@@ -1,0 +1,10 @@
+6240,upward
+6241,yank
+6242,cough
+6243,notorious
+6244,stereo
+6245,velvet
+6246,lethal
+6247,entail
+6248,roller
+6249,olive

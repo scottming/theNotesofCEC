@@ -1,0 +1,10 @@
+thin
+temperature
+surprise
+poll
+proposal
+consequence
+half
+breath
+sight
+cover

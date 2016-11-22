@@ -1,0 +1,10 @@
+5560,settler
+5561,reason
+5562,narrow
+5563,lean
+5564,magnificent
+5565,polite
+5566,contrary
+5567,long
+5568,scrape
+5569,optical

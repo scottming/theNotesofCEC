@@ -1,0 +1,10 @@
+10010,incompetent
+10011,harness
+10012,dissipate
+10013,tow
+10014,leftover
+10015,mahogany
+10016,publicize
+10017,drizzle
+10018,wallpaper
+10019,fatality

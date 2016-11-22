@@ -1,0 +1,10 @@
+6690,proximity
+6691,brochure
+6692,perimeter
+6693,perfume
+6694,firing
+6695,brace
+6696,symbolize
+6697,matching
+6698,stamp
+6699,flock

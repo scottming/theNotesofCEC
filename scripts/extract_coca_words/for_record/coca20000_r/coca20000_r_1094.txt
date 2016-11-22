@@ -1,0 +1,10 @@
+10940,yawn
+10941,lore
+10942,herd
+10943,gray
+10944,gag
+10945,hearth
+10946,emphatically
+10947,closeness
+10948,gal
+10949,obstruct

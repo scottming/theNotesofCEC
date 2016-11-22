@@ -1,0 +1,10 @@
+pattern
+whom
+skin
+agent
+owner
+machine
+gas
+down
+ahead
+generation

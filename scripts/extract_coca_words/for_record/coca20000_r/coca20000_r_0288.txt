@@ -1,0 +1,10 @@
+2880,intellectual
+2881,mix
+2882,assault
+2883,relax
+2884,stair
+2885,adventure
+2886,external
+2887,proof
+2888,confident
+2889,headquarters [PL]

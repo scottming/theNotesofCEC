@@ -1,0 +1,10 @@
+12300,gauge
+12301,brew
+12302,rumble
+12303,digestive
+12304,incense
+12305,probing
+12306,vice-president
+12307,waterproof
+12308,bait
+12309,illegitimate

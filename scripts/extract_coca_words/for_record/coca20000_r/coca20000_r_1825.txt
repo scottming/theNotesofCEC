@@ -1,0 +1,10 @@
+18250,germinate
+18251,miniature
+18252,internist
+18253,holdout
+18254,pancreas
+18255,chiffon
+18256,buffet
+18257,imperil
+18258,sorcerer
+18259,vernacular

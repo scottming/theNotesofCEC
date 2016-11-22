@@ -1,0 +1,10 @@
+stereotype
+sensor
+laundry
+manual
+pistol
+naval
+plaintiff
+kid
+middle-class
+apology

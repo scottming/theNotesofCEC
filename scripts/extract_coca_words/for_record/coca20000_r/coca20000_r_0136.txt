@@ -1,0 +1,10 @@
+1360,worth
+1361,associate
+1362,critic
+1363,warm
+1364,aspect
+1365,result
+1366,insist
+1367,failure
+1368,annual
+1369,French

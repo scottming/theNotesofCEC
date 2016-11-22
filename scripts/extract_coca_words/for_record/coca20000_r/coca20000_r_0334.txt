@@ -1,0 +1,10 @@
+3340,African-American
+3341,chase
+3342,document
+3343,brick
+3344,recruit
+3345,patch
+3346,consensus
+3347,horror
+3348,recording
+3349,changing

@@ -1,0 +1,10 @@
+5810,embassy
+5811,calm
+5812,injection
+5813,plantation
+5814,clear
+5815,dim
+5816,sunset
+5817,facial
+5818,predictable
+5819,presume

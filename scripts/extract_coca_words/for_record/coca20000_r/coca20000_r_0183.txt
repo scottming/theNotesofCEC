@@ -1,0 +1,10 @@
+1830,part
+1831,manner
+1832,ancient
+1833,silence
+1834,rating
+1835,golden
+1836,motion
+1837,German
+1838,gender
+1839,solve

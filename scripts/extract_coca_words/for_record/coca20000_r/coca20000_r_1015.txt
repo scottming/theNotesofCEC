@@ -1,0 +1,10 @@
+10150,self-efficacy
+10151,logistics
+10152,flinch
+10153,photon
+10154,steam
+10155,utilization
+10156,disseminate
+10157,acknowledgment
+10158,witty
+10159,racket

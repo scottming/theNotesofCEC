@@ -1,0 +1,10 @@
+3910,repair
+3911,decent
+3912,gym
+3913,oral
+3914,clerk
+3915,Israeli
+3916,envelope
+3917,reporting
+3918,destination
+3919,fist

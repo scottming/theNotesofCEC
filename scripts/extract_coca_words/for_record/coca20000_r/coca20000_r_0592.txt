@@ -1,0 +1,10 @@
+5920,stab
+5921,cafe
+5922,incidence
+5923,prop
+5924,failed
+5925,pledge
+5926,propaganda
+5927,underscore
+5928,formulate
+5929,corrupt

@@ -1,0 +1,10 @@
+1740,feature
+1741,internal
+1742,ethnic
+1743,link
+1744,stress
+1745,content
+1746,select
+1747,root
+1748,nose
+1749,declare

@@ -1,0 +1,10 @@
+4810,battle
+4811,suitable
+4812,mention
+4813,graduation
+4814,drill
+4815,cruel
+4816,mansion
+4817,regard
+4818,grape
+4819,authorize

@@ -1,0 +1,10 @@
+15700,perk
+15701,paprika
+15702,marshmallow
+15703,offbeat
+15704,valued
+15705,lurid
+15706,salvage
+15707,disinterested
+15708,acquiesce
+15709,kinetic

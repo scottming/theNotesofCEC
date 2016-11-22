@@ -1,0 +1,10 @@
+10250,pediatric
+10251,streak
+10252,emblem
+10253,convergence
+10254,homage
+10255,gateway
+10256,deserted
+10257,template
+10258,congratulations [PL]
+10259,botanical

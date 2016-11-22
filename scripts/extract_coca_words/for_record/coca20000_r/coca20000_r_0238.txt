@@ -1,0 +1,10 @@
+2380,total
+2381,usual
+2382,anger
+2383,psychological
+2384,heavily
+2385,peak
+2386,approximately
+2387,increasing
+2388,disorder
+2389,missile

@@ -1,0 +1,10 @@
+1250,winter
+1251,village
+1252,Soviet
+1253,refuse
+1254,sales
+1255,roll
+1256,communication
+1257,run
+1258,screen
+1259,gain

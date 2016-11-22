@@ -1,0 +1,10 @@
+3470,drinking
+3471,delay
+3472,cry
+3473,acceptance
+3474,collapse
+3475,shop
+3476,pump
+3477,candy
+3478,evil
+3479,final

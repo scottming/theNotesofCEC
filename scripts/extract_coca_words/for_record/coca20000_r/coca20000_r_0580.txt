@@ -1,0 +1,10 @@
+5800,span
+5801,fold
+5802,applaud
+5803,lifelong
+5804,linger
+5805,cube
+5806,Swiss
+5807,fax
+5808,preacher
+5809,underneath

@@ -1,0 +1,10 @@
+8300,broadcaster
+8301,alienate
+8302,swimmer
+8303,sting
+8304,idle
+8305,softball
+8306,dolphin
+8307,exhaustion
+8308,anatomy
+8309,liberalism

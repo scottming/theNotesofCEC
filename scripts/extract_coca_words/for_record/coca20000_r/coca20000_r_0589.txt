@@ -1,0 +1,10 @@
+5890,par
+5891,harmful
+5892,recycle
+5893,worship
+5894,torture
+5895,coincidence
+5896,resentment
+5897,feminine
+5898,justification
+5899,dependence

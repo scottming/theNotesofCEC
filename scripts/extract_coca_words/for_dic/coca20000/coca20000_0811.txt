@@ -1,0 +1,10 @@
+specific
+cap
+bail
+dropout
+executive
+deliberation
+podium
+novelty
+hoop
+outset

@@ -1,0 +1,10 @@
+1120,publish
+1121,cost
+1122,relation
+1123,like
+1124,release
+1125,own
+1126,bird
+1127,opinion
+1128,credit
+1129,critical

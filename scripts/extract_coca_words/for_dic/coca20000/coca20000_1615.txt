@@ -1,0 +1,10 @@
+compatriot
+commons
+bulkhead
+archetypal
+concierge
+nymph
+qualifier
+siphon
+spoils
+scoreboard

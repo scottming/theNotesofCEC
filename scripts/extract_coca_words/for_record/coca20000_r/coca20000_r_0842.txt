@@ -1,0 +1,10 @@
+8420,cough
+8421,divided
+8422,sanction
+8423,synthesis
+8424,Danish
+8425,insecurity
+8426,adaptive
+8427,boarding
+8428,toast
+8429,inclination

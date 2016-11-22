@@ -1,0 +1,10 @@
+400,human
+401,wait
+402,serve
+403,market
+404,die
+405,send
+406,expect
+407,home
+408,sense
+409,build

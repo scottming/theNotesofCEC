@@ -1,0 +1,10 @@
+3480,finance
+3481,pleased
+3482,medal
+3483,beg
+3484,sponsor
+3485,ethical
+3486,secondary
+3487,slam
+3488,export
+3489,experimental

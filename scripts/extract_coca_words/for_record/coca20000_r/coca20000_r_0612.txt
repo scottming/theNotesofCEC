@@ -1,0 +1,10 @@
+6120,shopper
+6121,ski
+6122,telecommunications
+6123,scan
+6124,coral
+6125,heating
+6126,lease
+6127,appliance
+6128,census
+6129,maid

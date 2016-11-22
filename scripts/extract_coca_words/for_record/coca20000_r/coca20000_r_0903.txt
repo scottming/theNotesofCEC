@@ -1,0 +1,10 @@
+9030,all-purpose
+9031,intellect
+9032,popcorn
+9033,contemporary
+9034,beginner
+9035,flex
+9036,dim
+9037,etch
+9038,nightly
+9039,shut

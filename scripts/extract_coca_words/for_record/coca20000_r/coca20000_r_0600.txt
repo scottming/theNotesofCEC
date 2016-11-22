@@ -1,0 +1,10 @@
+6000,determined
+6001,logo
+6002,drain
+6003,leak
+6004,intensify
+6005,mail
+6006,regret
+6007,toddler
+6008,spell
+6009,arc

@@ -1,0 +1,10 @@
+3550,confuse
+3551,airplane
+3552,monthly
+3553,duck
+3554,dose
+3555,Korean
+3556,plead
+3557,initiate
+3558,lecture
+3559,van

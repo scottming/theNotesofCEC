@@ -1,0 +1,10 @@
+2890,sudden
+2891,dirty
+2892,violation
+2893,tongue
+2894,license
+2895,hold
+2896,shelter
+2897,rub
+2898,controversy
+2899,entrance

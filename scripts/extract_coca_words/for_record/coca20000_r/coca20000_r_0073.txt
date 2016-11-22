@@ -1,0 +1,10 @@
+730,factor
+731,decade
+732,article
+733,shoot
+734,east
+735,save
+736,seven
+737,artist
+738,away
+739,scene

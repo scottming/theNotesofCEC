@@ -1,0 +1,10 @@
+16000,phobia
+16001,defunct
+16002,malaise
+16003,fussy
+16004,agonize
+16005,sardine
+16006,dissenter
+16007,gaunt
+16008,babble
+16009,parenthesis

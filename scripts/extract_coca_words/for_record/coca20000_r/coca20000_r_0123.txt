@@ -1,0 +1,10 @@
+1230,introduce
+1231,driver
+1232,attempt
+1233,park
+1234,spot
+1235,lack
+1236,ice
+1237,boat
+1238,drink
+1239,sun

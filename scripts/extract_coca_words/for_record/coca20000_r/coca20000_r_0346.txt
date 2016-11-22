@@ -1,0 +1,10 @@
+3460,flour
+3461,bitter
+3462,bare
+3463,slope
+3464,rent
+3465,presidency
+3466,serving
+3467,subtle
+3468,greatly
+3469,bishop

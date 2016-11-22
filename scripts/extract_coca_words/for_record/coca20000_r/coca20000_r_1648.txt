@@ -1,0 +1,10 @@
+16480,acuity
+16481,machete
+16482,oral
+16483,chariot
+16484,sacrificial
+16485,chewing
+16486,fragility
+16487,powered
+16488,nightstand
+16489,defector

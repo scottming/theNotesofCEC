@@ -1,0 +1,10 @@
+6970,infinite
+6971,commute
+6972,gossip
+6973,muscular
+6974,contradict
+6975,discrepancy
+6976,bilateral
+6977,intermediate
+6978,temporal
+6979,lunar

@@ -1,0 +1,10 @@
+1100,fast
+1101,alone
+1102,customer
+1103,suffer
+1104,speech
+1105,successful
+1106,option
+1107,participant
+1108,southern
+1109,fresh

@@ -1,0 +1,10 @@
+2390,equally
+2391,vary
+2392,wire
+2393,round
+2394,distribution
+2395,transportation
+2396,holy
+2397,ring
+2398,twin
+2399,command

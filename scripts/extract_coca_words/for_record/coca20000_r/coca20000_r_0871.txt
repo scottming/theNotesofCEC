@@ -1,0 +1,10 @@
+8710,transparency
+8711,gold
+8712,continuum
+8713,resolve
+8714,zoning
+8715,nebula
+8716,quake
+8717,guided
+8718,exhaust
+8719,diversify

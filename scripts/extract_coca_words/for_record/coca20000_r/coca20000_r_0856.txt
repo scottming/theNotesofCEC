@@ -1,0 +1,10 @@
+8560,downturn
+8561,crane
+8562,coating
+8563,pod
+8564,democratization
+8565,decree
+8566,vie
+8567,present
+8568,jeopardy
+8569,collaborator

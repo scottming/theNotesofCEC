@@ -1,0 +1,10 @@
+10090,flux
+10091,following
+10092,query
+10093,torn
+10094,blizzard
+10095,condemnation
+10096,warm-up
+10097,indicative
+10098,umpire
+10099,scare

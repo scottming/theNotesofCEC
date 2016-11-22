@@ -1,0 +1,10 @@
+5380,specialized
+5381,established
+5382,lobbyist
+5383,desirable
+5384,slim
+5385,remains [PL]
+5386,allege
+5387,grip
+5388,alert
+5389,rear

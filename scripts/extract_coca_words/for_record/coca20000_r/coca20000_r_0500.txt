@@ -1,0 +1,10 @@
+5000,till
+5001,bore
+5002,beloved
+5003,website
+5004,entertain
+5005,chopped
+5006,smoking
+5007,bizarre
+5008,overseas
+5009,tribute

@@ -1,0 +1,10 @@
+2630,gear
+2631,graduate
+2632,barrier
+2633,minor
+2634,provision
+2635,killer
+2636,assign
+2637,gang
+2638,developing
+2639,classic

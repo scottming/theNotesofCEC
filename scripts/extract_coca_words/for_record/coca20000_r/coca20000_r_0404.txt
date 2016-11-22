@@ -1,0 +1,10 @@
+4040,stumble
+4041,lonely
+4042,automobile
+4043,artificial
+4044,dawn
+4045,abstract
+4046,descend
+4047,silly
+4048,hook
+4049,tide

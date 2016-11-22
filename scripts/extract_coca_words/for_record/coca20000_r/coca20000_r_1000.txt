@@ -1,0 +1,10 @@
+10000,voltage
+10001,finale
+10002,heading
+10003,vigor
+10004,scarcity
+10005,darkened
+10006,stiffen
+10007,quarry
+10008,pediatrician
+10009,uninsured

@@ -1,0 +1,10 @@
+1480,historical
+1481,medicine
+1482,tour
+1483,depend
+1484,photo
+1485,finding
+1486,grab
+1487,direct
+1488,classroom
+1489,contact

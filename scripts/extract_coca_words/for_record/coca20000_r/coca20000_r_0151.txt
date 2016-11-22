@@ -1,0 +1,10 @@
+1510,tie
+1511,democracy
+1512,eastern
+1513,primary
+1514,yesterday
+1515,circle
+1516,device
+1517,progress
+1518,next
+1519,front

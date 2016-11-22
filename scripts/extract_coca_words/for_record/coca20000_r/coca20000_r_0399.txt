@@ -1,0 +1,10 @@
+3990,interior
+3991,banking
+3992,casual
+3993,gravity
+3994,enroll
+3995,diminish
+3996,prevention
+3997,Arab
+3998,value
+3999,minimize

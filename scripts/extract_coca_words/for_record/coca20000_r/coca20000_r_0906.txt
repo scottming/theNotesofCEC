@@ -1,0 +1,10 @@
+9060,infuse
+9061,trickle
+9062,variant
+9063,kinship
+9064,anomaly
+9065,intellectually
+9066,mogul
+9067,windy
+9068,handler
+9069,moral [PL]

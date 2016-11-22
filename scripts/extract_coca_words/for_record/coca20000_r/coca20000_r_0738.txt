@@ -1,0 +1,10 @@
+7380,intricate
+7381,voucher
+7382,explosives [PL]
+7383,scheduled
+7384,floating
+7385,cash
+7386,single
+7387,burger
+7388,throne
+7389,renovation

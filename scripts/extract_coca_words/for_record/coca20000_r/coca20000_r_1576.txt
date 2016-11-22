@@ -1,0 +1,10 @@
+15760,twine
+15761,potion
+15762,hoot
+15763,poacher
+15764,airman
+15765,subsume
+15766,lucid
+15767,meteorologist
+15768,drafting
+15769,stay-at-home

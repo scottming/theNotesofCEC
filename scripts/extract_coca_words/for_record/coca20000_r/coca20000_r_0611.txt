@@ -1,0 +1,10 @@
+6110,forced
+6111,lottery
+6112,chore
+6113,fringe
+6114,reduced
+6115,lengthy
+6116,log
+6117,hedge
+6118,academic
+6119,tattoo

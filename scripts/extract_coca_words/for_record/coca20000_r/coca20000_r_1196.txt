@@ -1,0 +1,10 @@
+11960,highland
+11961,sprawl
+11962,spoken
+11963,depot
+11964,easel
+11965,stretcher
+11966,twenty-six
+11967,bloodshed
+11968,coupling
+11969,knack

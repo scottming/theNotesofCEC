@@ -1,0 +1,10 @@
+11720,hospitalization
+11721,wad
+11722,liter
+11723,ravine
+11724,chain
+11725,tributary
+11726,stately
+11727,audition
+11728,penchant
+11729,quicken

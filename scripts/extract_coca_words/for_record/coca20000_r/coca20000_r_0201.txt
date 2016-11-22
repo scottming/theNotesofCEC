@@ -1,0 +1,10 @@
+2010,massive
+2011,engineer
+2012,wheel
+2013,female
+2014,decline
+2015,invest
+2016,promise
+2017,cable
+2018,towards
+2019,expose

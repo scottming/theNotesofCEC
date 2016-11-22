@@ -1,0 +1,10 @@
+5160,crown
+5161,fake
+5162,illustration
+5163,crab
+5164,creep
+5165,worthy
+5166,satisfied
+5167,hydrogen
+5168,capitalism
+5169,farming

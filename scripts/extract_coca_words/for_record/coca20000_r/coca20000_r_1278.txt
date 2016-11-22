@@ -1,0 +1,10 @@
+12780,animate
+12781,passageway
+12782,idle
+12783,dazzle
+12784,multivariate
+12785,aptitude
+12786,immersion
+12787,hard-liner
+12788,acclaim
+12789,appease

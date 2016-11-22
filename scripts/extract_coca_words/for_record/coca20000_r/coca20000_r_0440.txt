@@ -1,0 +1,10 @@
+4400,momentum
+4401,purse
+4402,shed
+4403,liquid
+4404,icon
+4405,elephant
+4406,consequently
+4407,legislature
+4408,associate
+4409,franchise

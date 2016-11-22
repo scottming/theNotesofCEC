@@ -1,0 +1,10 @@
+1540,start
+1541,alive
+1542,expression
+1543,football
+1544,intend
+1545,attack
+1546,chicken
+1547,army
+1548,abuse
+1549,theater

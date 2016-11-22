@@ -1,0 +1,10 @@
+2240,cycle
+2241,opposite
+2242,lock
+2243,whole
+2244,deserve
+2245,consistent
+2246,resistance
+2247,discovery
+2248,tear
+2249,exposure

@@ -1,0 +1,10 @@
+2870,double
+2871,swim
+2872,tire
+2873,fault
+2874,loose
+2875,free
+2876,shortly
+2877,originally
+2878,considerable
+2879,prior

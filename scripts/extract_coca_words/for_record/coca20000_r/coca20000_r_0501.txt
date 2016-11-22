@@ -1,0 +1,10 @@
+5010,retrieve
+5011,devise
+5012,bomber
+5013,campaign
+5014,nominate
+5015,bargain
+5016,skeptical
+5017,scrutiny
+5018,suppress
+5019,rape

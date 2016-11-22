@@ -1,0 +1,10 @@
+8210,souvenir
+8211,slate
+8212,carpenter
+8213,benchmark
+8214,exhausted
+8215,familiarity
+8216,plank
+8217,blaze
+8218,relaxation
+8219,lousy

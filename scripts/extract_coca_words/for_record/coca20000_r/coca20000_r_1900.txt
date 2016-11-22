@@ -1,0 +1,10 @@
+19000,untimely
+19001,clang
+19002,top-ranked
+19003,iteration
+19004,scuff
+19005,un-american
+19006,tiled
+19007,dame
+19008,foursome
+19009,mortuary

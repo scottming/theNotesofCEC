@@ -1,0 +1,10 @@
+14200,inpatient
+14201,whisker [PL]
+14202,sloping
+14203,mascara
+14204,rerun
+14205,sanctity
+14206,jot
+14207,alternating
+14208,apathy
+14209,typing

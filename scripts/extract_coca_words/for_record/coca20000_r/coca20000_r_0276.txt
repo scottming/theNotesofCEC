@@ -1,0 +1,10 @@
+2760,Olympic
+2761,dirt
+2762,odd
+2763,rice
+2764,bullet
+2765,tight
+2766,Bible
+2767,chart
+2768,solar
+2769,decline

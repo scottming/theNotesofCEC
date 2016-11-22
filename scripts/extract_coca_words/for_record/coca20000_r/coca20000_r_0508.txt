@@ -1,0 +1,10 @@
+5080,objective
+5081,completion
+5082,vein
+5083,scar
+5084,progress
+5085,surrender
+5086,surge
+5087,affirmative
+5088,inspect
+5089,stroke

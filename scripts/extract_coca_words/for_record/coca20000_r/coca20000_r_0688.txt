@@ -1,0 +1,10 @@
+6880,siege
+6881,probable
+6882,pervasive
+6883,prevailing
+6884,barbecue
+6885,territorial
+6886,strangely
+6887,definite
+6888,translator
+6889,strategist

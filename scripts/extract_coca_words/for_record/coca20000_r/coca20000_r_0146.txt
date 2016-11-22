@@ -1,0 +1,10 @@
+1460,mean [PL]
+1461,demand
+1462,learning
+1463,bus
+1464,hell
+1465,dangerous
+1466,remind
+1467,moral
+1468,United
+1469,category

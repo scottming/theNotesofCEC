@@ -1,0 +1,10 @@
+1760,outcome
+1761,ad
+1762,defend
+1763,matter
+1764,judge
+1765,duty
+1766,sheet
+1767,ought
+1768,ensure
+1769,Catholic

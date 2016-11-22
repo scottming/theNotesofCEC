@@ -1,0 +1,10 @@
+1800,slip
+1801,percentage
+1802,meat
+1803,funny
+1804,neither
+1805,soil
+1806,influence
+1807,surgery
+1808,correct
+1809,Jewish

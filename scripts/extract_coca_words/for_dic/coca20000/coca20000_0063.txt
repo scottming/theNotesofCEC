@@ -1,0 +1,10 @@
+condition
+choice
+place
+single
+rule
+daughter
+administration
+south
+husband
+Congress

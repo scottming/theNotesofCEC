@@ -1,0 +1,10 @@
+13970,TNT
+13971,heavy-duty
+13972,fluke
+13973,regular-season
+13974,hilltop
+13975,Albanian
+13976,unbroken
+13977,confluence
+13978,cool
+13979,tiptoe

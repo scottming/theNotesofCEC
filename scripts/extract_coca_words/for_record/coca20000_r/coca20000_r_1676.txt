@@ -1,0 +1,10 @@
+16760,expiration
+16761,corrosive
+16762,silverware
+16763,expletive
+16764,lettering
+16765,judgmental
+16766,censor
+16767,mythological
+16768,dictate
+16769,allegorical

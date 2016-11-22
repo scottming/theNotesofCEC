@@ -1,0 +1,10 @@
+3800,suspicion
+3801,lock
+3802,finish
+3803,residence
+3804,shame
+3805,meaningful
+3806,sidewalk
+3807,Olympics (PL)
+3808,technological
+3809,signature

@@ -1,0 +1,10 @@
+260,after
+261,since
+262,long
+263,provide
+264,service
+265,around
+266,friend
+267,important
+268,father
+269,sit

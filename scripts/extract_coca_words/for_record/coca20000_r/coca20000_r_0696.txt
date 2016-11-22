@@ -1,0 +1,10 @@
+6960,serial
+6961,investigative
+6962,panic
+6963,reflective
+6964,boomer
+6965,finished
+6966,landfill
+6967,fund-raiser
+6968,surpass
+6969,day-to-day

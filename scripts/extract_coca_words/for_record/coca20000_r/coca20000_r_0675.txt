@@ -1,0 +1,10 @@
+6750,lord
+6751,expire
+6752,adjacent
+6753,messy
+6754,smoker
+6755,catastrophe
+6756,withhold
+6757,unpredictable
+6758,ivory
+6759,embryo

@@ -1,0 +1,10 @@
+2700,mechanism
+2701,disagree
+2702,like
+2703,penalty
+2704,match
+2705,ie
+2706,advance
+2707,resort
+2708,destruction
+2709,bear

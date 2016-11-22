@@ -1,0 +1,10 @@
+940,pain
+941,apply
+942,play
+943,measure
+944,wide
+945,shake
+946,fly
+947,interview
+948,manage
+949,chair

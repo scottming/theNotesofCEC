@@ -1,0 +1,10 @@
+3050,meter
+3051,explosion
+3052,arrest
+3053,publicly
+3054,incredible
+3055,fighter
+3056,rapid
+3057,admission
+3058,hunter
+3059,educate

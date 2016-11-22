@@ -1,0 +1,10 @@
+9960,orbital
+9961,occupied
+9962,platinum
+9963,self-conscious
+9964,radiant
+9965,timeless
+9966,storyteller
+9967,stitch
+9968,demolish
+9969,motion

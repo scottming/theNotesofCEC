@@ -1,0 +1,10 @@
+12200,median
+12201,distraught
+12202,Alaskan
+12203,grassland
+12204,quiet
+12205,approximate
+12206,bagel
+12207,up-to-date
+12208,sprint
+12209,thankfully

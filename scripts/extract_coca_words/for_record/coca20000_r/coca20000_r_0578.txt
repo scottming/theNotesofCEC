@@ -1,0 +1,10 @@
+5780,dangle
+5781,stage
+5782,jerk
+5783,mobility
+5784,assurance
+5785,chop
+5786,competing
+5787,spark
+5788,spare
+5789,mob

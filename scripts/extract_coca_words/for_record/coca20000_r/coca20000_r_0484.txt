@@ -1,0 +1,10 @@
+4840,permit
+4841,sweater
+4842,rehabilitation
+4843,rubber
+4844,retreat
+4845,molecule
+4846,freely
+4847,favorable
+4848,steadily
+4849,veteran

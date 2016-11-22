@@ -1,0 +1,10 @@
+12110,lug
+12111,adjunct
+12112,densely
+12113,existential
+12114,coarsely
+12115,articulate
+12116,elastic
+12117,befriend
+12118,pavilion
+12119,ore

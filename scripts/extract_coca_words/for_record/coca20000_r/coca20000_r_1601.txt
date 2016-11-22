@@ -1,0 +1,10 @@
+16010,onerous
+16011,lonesome
+16012,crossword
+16013,bleach
+16014,mug
+16015,fisher
+16016,ill-fated
+16017,drowning
+16018,nab
+16019,annihilate

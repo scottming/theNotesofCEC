@@ -1,0 +1,10 @@
+5820,empty
+5821,x-ray
+5822,nearest
+5823,echo
+5824,stabilize
+5825,excess
+5826,constituent
+5827,proponent
+5828,Vietnamese
+5829,gardener

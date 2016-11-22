@@ -1,0 +1,10 @@
+15010,hospitable
+15011,brawl
+15012,smite
+15013,chi-square
+15014,Federalist
+15015,booking
+15016,hateful
+15017,reigning
+15018,adrift
+15019,passer

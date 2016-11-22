@@ -1,0 +1,10 @@
+90,day
+91,more
+92,use
+93,no
+94,man
+95,find
+96,here
+97,thing
+98,give
+99,many

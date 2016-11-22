@@ -1,0 +1,10 @@
+19160,heartbroken
+19161,runny
+19162,unfaithful
+19163,unquestioned
+19164,video-game
+19165,causation
+19166,pessimist
+19167,deformation
+19168,uncertainly
+19169,self-perception
