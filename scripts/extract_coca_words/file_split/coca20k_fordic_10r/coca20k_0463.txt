@@ -1,0 +1,10 @@
+blank
+commodity
+cure
+mineral
+hunger
+dying
+developmental
+faster
+spare
+halfway

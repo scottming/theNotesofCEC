@@ -1,0 +1,10 @@
+wait
+serve
+market
+die
+send
+expect
+home
+sense
+build
+stay

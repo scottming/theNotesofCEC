@@ -1,0 +1,280 @@
+rank,words,phonetic,coca_speech,WB_speech
+1,the,"/ðə before consonant sounds, ði before vowel sounds, ˈðiː when said with emphasis/",a,
+2,be,"/ˈbiː/
+/ˈæm, əm/
+/ˈɑɚ, ɚ/
+/ˈız, əz/
+/ˈwəz/
+/ˈwɚ/
+/ˈbın, Brit ˈbiːn/
+/ˈbiːjıŋ/",v, verb 
+3,and,"/ˈænd, ənd, ən/",c, conj 
+4,of,"/ˈʌv, əv, Brit ˈɒv, əv, ə/",i, prep 
+5,a,"/ˈeı/
+/ə, ˈeı/
+/ən, ˈæn/",a, noun 
+6,in,,i,
+7,to,"/ˈtuː, tə/
+/ˈtuː/",t," adv 
+ prep "
+8,have,"/ˈhæv, əv; in “have to” meaning “must” usually ˈhæf/
+/ˈhæz, əz; in “has to” meaning “must” usually ˈhæs/
+/ˈhæd, əd/
+/ˈhævıŋ/",v, verb 
+9,to,"/ˈtuː, tə/
+/ˈtuː/",i," adv 
+ prep "
+10,it,"/ˈıt, ət/
+/ˈıt/",p," noun 
+ pronoun "
+11,I,,p,
+12,that,"/ˈðæt, ðət/
+/ˈðoʊz/
+/ˈðæt/",c," adj 
+ adv 
+ conj 
+ pronoun "
+13,for,"/ˈfoɚ, fɚ/",i," conj 
+ prep "
+14,you,"/ˈjuː, jə/",p, pronoun 
+15,he,"/ˈhiː, i/
+/ˈhiː/",p," noun 
+ pronoun "
+16,with,"/ˈwıθ, ˈwıð/",i, prep 
+17,on,/ˈɑːn/,i," adj 
+ adv 
+ prep "
+18,do,"/ˈduː/
+/ˈdʌz/
+/ˈdıd/
+/ˈdʌn/
+/ˈduːwıŋ/
+/ˈdoʊ/",v," noun 
+ verb "
+19,say,"/ˈseı/
+/ˈsɛz/
+/ˈsɛd/
+/ˈsejıŋ/",v," interj 
+ noun 
+ verb "
+20,this,"/ˈðıs, ðəs/
+/ˈðiːz/
+/ˈðıs/",d," adj 
+ adv 
+ pronoun "
+21,they,/ˈðeı/,p, pronoun 
+22,at,"/ˈæt, ət/",i, prep 
+23,but,"/ˈbʌt, bət/
+/ˈbʌt/",c," adv 
+ conj 
+ noun 
+ prep "
+24,we,/ˈwiː/,p, pronoun 
+25,his,"/ˈhız, ız/
+/ˈhız/",a," adj 
+ pronoun "
+26,from,"/ˈfrʌm, ˈfrɑːm, frəm/",i, prep 
+27,that,"/ˈðæt, ðət/
+/ˈðoʊz/
+/ˈðæt/",d," adj 
+ adv 
+ conj 
+ pronoun "
+28,not,/ˈnɑːt/,x, adv 
+29,n''t,,x,
+30,by,"/ˈbaı, bə/
+/ˈbaı/",i," adv 
+ prep "
+31,she,/ˈʃiː/,p," noun 
+ pronoun "
+32,or,"/ˈoɚ, ɚ/",c, conj 
+33,as,"/ˈæz, əz/",c," adv 
+ conj 
+ prep "
+34,what,"/ˈwɑːt, ˈwʌt/",d," adj 
+ adv 
+ pronoun "
+35,go,"/ˈgoʊ/
+/ˈgoʊz/
+/ˈwɛnt/
+/ˈgɑːn/
+/ˈgowıŋ/",v," noun 
+ verb "
+36,their,"/ˈðeɚ, ðɚ/",a, adj 
+37,can,"/kən, ˈkæn/
+/kəd, ˈkʊd/
+/ˈkænɑt, kəˈnɑːt, Brit ˈkænət/
+/ˈkænt, Brit ˈkɑːnt/
+/ˈkæn/
+/ˈkænˌfʊl/
+/ˈkæn/",v," noun 
+ verb "
+38,who,/ˈhuː/,p, pronoun 
+39,get,"/ˈgɛt/
+/ˈgɑːt/
+/ˈgɑːtn̩/",v, verb 
+40,if,/ˈıf/,c," conj 
+ noun "
+41,would,"/ˈwʊd, wəd, əd/",v, verb 
+42,her,"/ˈhɚ, ɚ/",a," adj 
+ pronoun "
+43,all,/ˈɑːl/,d," adj 
+ adv 
+ pronoun "
+44,my,/ˈmaı/,a, adj 
+45,make,"/ˈmeık/
+/ˈmeıd/",v," noun 
+ verb "
+46,about,/əˈbaʊt/,i," adj 
+ adv 
+ prep "
+47,know,"/ˈnoʊ/
+/ˈnuː, Brit ˈnjuː/
+/ˈnoʊn/",v," noun 
+ verb "
+48,will,"/ˈwıl, wəl/
+/ˈwʊd, wəd/
+/ˈwoʊnt/
+/ˈwıl/
+/ˈwıl/
+/ˈwıl/",v," noun 
+ verb "
+49,as,"/ˈæz, əz/",i," adv 
+ conj 
+ prep "
+50,up,"/ˈʌp/
+/ˈʌpt/",r," adj 
+ adv 
+ noun 
+ prep 
+ verb "
+51,one,/ˈwʌn/,m," adj 
+ noun 
+ pronoun "
+52,time,/ˈtaım/,n," noun 
+ verb "
+53,there,/ˈðeɚ/,e," adj 
+ adv 
+ interj 
+ noun "
+54,year,/ˈjiɚ/,n, noun 
+55,so,,r,
+56,think,"/ˈθıŋk/
+/ˈθɑːt/",v," noun 
+ verb "
+57,when,/ˈwɛn/,c," adv 
+ conj 
+ pronoun "
+58,which,/ˈwıʧ/,d," adj 
+ pronoun "
+59,them,"/ˈðɛm, ðəm/",p, pronoun 
+60,some,"/ˈsʌm, səm/
+/ˈsʌm/
+/ˈsʌm, ˌsʌm/",d," adj 
+ adv 
+ pronoun "
+61,me,"/ˈmiː/
+/ˌɛmˈiː/",p," noun 
+ pronoun "
+62,people,/ˈpiːpəl/,n," noun 
+ verb "
+63,take,"/ˈteık/
+/ˈtʊk/
+/ˈteıkən/",v," noun 
+ verb "
+64,out,/ˈaʊt/,r," adv 
+ noun 
+ prep 
+ verb "
+65,into,"/ˈıntu, ˈıntə/",i, prep 
+66,just,"/ˈʤʌst/
+/ˈʤʌstnəs/",r," adj 
+ adv 
+ noun "
+67,see,"/ˈsiː/
+/ˈsɑː/
+/ˈsiːn/
+/ˈsiːjıŋ/",v," noun 
+ verb "
+68,him,"/ˈhım, ım/",p, pronoun 
+69,your,"/ˈjoɚ, jɚ/",a, adj 
+70,come,"/ˈkʌm/
+/ˈkeım/",v," noun 
+ verb "
+71,could,"/ˈkʊd, kəd/",v, verb 
+72,now,/ˈnaʊ/,r," adv 
+ conj 
+ noun "
+73,than,"/ˈðæn, ðən/",c," conj 
+ prep "
+74,like,/ˈlaık/,i," adj 
+ adv 
+ conj 
+ noun 
+ prep 
+ verb "
+75,other,/ˈʌðɚ/,j," adj 
+ pronoun "
+76,how,/ˈhaʊ/,r," adv 
+ conj "
+77,then,/ˈðɛn/,r," adj 
+ adv 
+ noun "
+78,its,"/ˈıts, əts/",a, adj 
+79,our,"/ˈawɚ, ɑɚ/",a, adj 
+80,two,/ˈtuː/,m," adj 
+ noun 
+ pronoun "
+81,more,/ˈmoɚ/,r," adj 
+ adv 
+ pronoun "
+82,these,,d,
+83,want,/ˈwɑːnt/,v," noun 
+ verb "
+84,way,/ˈweı/,n," adv 
+ noun "
+85,look,/ˈlʊk/,v," noun 
+ verb "
+86,first,/ˈfɚst/,m," adj 
+ adv 
+ noun 
+ pronoun "
+87,also,/ˈɑːlˌsoʊ/,r, adv 
+88,new,"/ˈnuː, Brit ˈnjuː/",j," adj 
+ adv 
+ noun "
+89,because,"/bıˈkɑːz, bıˈkʌz/",c, conj 
+90,day,/ˈdeı/,n, noun 
+91,more,/ˈmoɚ/,d," adj 
+ adv 
+ pronoun "
+92,use,"/ˈjuːz/
+/ˈjuːs/",v," noun 
+ verb "
+93,no,/ˈnoʊ/,a," adj 
+ adv 
+ noun "
+94,man,"/ˈmæn/
+/ˈmɛn/",n," interj 
+ noun 
+ verb "
+95,find,"/ˈfaınd/
+/ˈfaʊnd/",v," noun 
+ verb "
+96,here,/ˈhiɚ/,r," adv 
+ interj 
+ noun "
+97,thing,/ˈθıŋ/,n, noun 
+98,give,"/ˈgıv/
+/ˈgeıv/
+/ˈgıvən/",v," noun 
+ verb "
+99,many,/ˈmɛni/,d," adj 
+ pronoun "
+100,well,"/ˈwɛl/
+/ˈbɛtɚ/
+/ˈbɛst/",r," adj 
+ adv 
+ interj 
+ noun 
+ verb "

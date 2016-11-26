@@ -1,0 +1,10 @@
+active
+extend
+chief
+average
+combine
+wine
+below
+cool
+voter
+mean

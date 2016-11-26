@@ -1,0 +1,10 @@
+government
+run
+small
+number
+off
+always
+move
+like
+night
+live

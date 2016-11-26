@@ -1,0 +1,10 @@
+cost
+industry
+figure
+face
+street
+image
+itself
+phone
+either
+data
