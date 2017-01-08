@@ -91,12 +91,20 @@ class WordsData(object):
 
 
 coca = WordsData(
-    'data/coca20k_WB.html',
-    'data/coca20k_WB.csv',
-    'data/coca20k_source.csv')
+    'data/coca60k_WB.html',
+    'data/coca60k_WB.csv',
+    'data/coca60k_source.csv')
 
-coca.csv_export = 'coca20k_WB_speech.csv'
-coca.xlsx_export = 'coca20k_WB_speech.xlsx'
+coca.csv_export = 'coca60k_WB_speech.csv'
+coca.xlsx_export = 'coca60k_WB_speech.xlsx'
 coca.export()
+# coca = WordsData(
+#     'data/coca20k_WB.html',
+#     'data/coca20k_WB.csv',
+#     'data/coca20k_source.csv')
+#
+# coca.csv_export = 'coca20k_WB_speech.csv'
+# coca.xlsx_export = 'coca20k_WB_speech.xlsx'
+# coca.export()
 print("DONE!!!")
 
